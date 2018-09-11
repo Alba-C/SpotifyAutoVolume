@@ -1,0 +1,14 @@
+{
+  "name": "automute",
+  "version": "1.0.0",
+  "description": "mute system when spotify plays an ad",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "system-control": "0.0.5"
+  }
+}

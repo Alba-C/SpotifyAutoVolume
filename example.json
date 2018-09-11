@@ -1,0 +1,610 @@
+{
+  "pod": {
+    "stream": [
+      {
+        "id": "000000010e7786e0000000202eb3b033",
+        "dummy": false,
+        "clickthrough": "https://ad.doubleclick.net/ddm/trackclk/N6344.319583KATZMEDIAGROUP/B20590053.212041585;dc_trk_aid=411328494;dc_trk_cid=96599694;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=",
+        "tracking_events": {
+          "paused": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABixrArO2N2y7rAGCIh7vlRGZ7zJE3f103V2K32_2qQsfhl7UzHJoi1Rn-gE28I6Q1D2V_q35c1CsN9dk04O1ITD30Hd8hhjdMUt0el3Zpjtl84NlXlEJnQO5t8R4VsSwg-09HJruOI8GCrrtgajsOalQCl7UXBl3O-mrbmwrX0c3jNLS4MwkLTQ7mxnqEfz4FRVOqJX1wu_L4n5dM4lXo0eJ3GfZaDrc4gfmQSZqcMI1eH01mX0AAg7ZOPfLxOVHoy_GjvnOakuPBYNfCnC-nFFa95BQNqZTxMeV3CDQTiFWx5Ng9-xls1kjzGB_SPXAZIEhsr2-K9aU06&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=adpause&ad_mt=[AD_MT]"
+          ],
+          "collapsed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AADIIWVxenzPXFr3ow5WbcCyp4-dxN61D2tvzpJf3Xx01Uf1vdFgX_ZnJwDIBWNZj3KcaxJGjpgezkPSFiS7ufBBVj9GJzCiPfCIJ4r5Sj0s15dePKbnTKOEK0YyT5pVpLIBRPnSBOy7Dh2dUlMBhveN0sfo1DBN14i-Hk8jfaGrct1ECkf5zAvWlZrpfqvycol07l-KgSiwwKyi7IrlJ5nfBUiAC57Ixa0nQYRo_G43oPlk8QjnIh6Zwfh860D84R4O7hNJjE0Fp38P3cXuVff0fM20p9N4-JDTchq3Ce7Z7fLvJAh21IqcFFWmFmynTZRlen5wZLIltLQCfrz8&event=monitoring"
+          ],
+          "moat": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACFz075KECJJvVpHb78WJfzYiQrjJiSfA-1rjFYNE-toa5Ud076wMPL44eq_XMpPGBl9beJiCOdiMHg5G3fwbwOrzQ1egJ3B2xF2CodrCAH-hpb0QEOmfqodubcznDYXr-2KN8doAw4pC4Vygn7Opx3N5AIFQnD-ooH7DuC0mysNFyex8ByJy_HDryUI5FgwaQJCUdHPtE8K1JYov_Twmk2Jr1r0qeSvdvEpEnNTkxFkLGhCumqrKZ5n3dCOAtwU1mGcxSh4YmI99tIZmnh4NWCfkbp-eY_9eP8fHqErq2VA8_QzQgnsn6D7ZVDNgA_U--CuMwhUhTJMQ&event=monitoring"
+          ],
+          "started": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACDNy3zYRFfnJqUiKIOHBn8bn-4VvNjX8hFg0bG8amym_KLXIz_S7W3wCXkspsoJKamLrXF8FrLZf4iVV3Q72BPaL8ShOwh4XBfbqrZOmsDTUx-_fnR6kRehGfGS4OZg-BUgz9JeN3cNrQ6fZh4EamP_spmjTqJCBvsSCYPQiyAw8PDlBdkdY5Be4buRg_R8GJLrSWcDtwkhpmY2ZCnXzFLJImRDYpImDdMgDOy6SewRY04cateYLSktA8n4yho1DCsIIQi76990kB79VaeFLSZ0o0lgXhjmzUSF0OA1glZ5YbezQ-eoo0JvKIdkrgPMJrb7Ru85eYlLQFZ2g&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=part2viewed&ad_mt=[AD_MT]",
+            "https://ad.doubleclick.net/ddm/trackimp/N6344.319583KATZMEDIAGROUP/B20590053.211992257;dc_trk_aid=411357331;dc_trk_cid=69662508;ord=109572771;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+          ],
+          "clicked": [
+            "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsslrjOPIlcas4MBseQjmKXLAbDTufMSWl01LVOyLcEcKskqIMDxrMErwbEqljgpHff7Xm3kbIQfm0yAaQY5xd9tDVl33Q0AV7jXEQViGrplb8_nMIX4E5nKShhTOCkmO3C4eS3pwFWv4GMQPA7_OKKPtRBGK-HKWwL4VEs2725x0BssO4wOhrxhaCp49RVpVnMu1XD_8jAllYyyHJhT8JkYJAZ2SHHZEk-UVoAdYg&sai=AMfl-YRtju8JaCjvUwOx699aDlT1cnSAawxpEn_twm175gSKSdmFCzTCRahoWryHyuEM1B0XvgteSfqe4LqQf_b_Q3EACjavUcVsG2Ql2r58&sig=Cg0ArKJSzCD-KW8ug29FEAE&urlfix=1&adurl=",
+            "https://adeventtracker.spotify.com/monitoring?pload=AABd4lIhlCWdxW6LPX6B-_Al835QEq91EJDMtihoiHPxaLC3vYiUTpFA7GVcjdn0tchrJdcarRsdMauYvJEcbLL_7ArdrWZUzvlxOLjp60RQHdkI13GdYvK-bH062J_zSd-M0erLO3_6kUsUKZ_-WPANZ0_ZPAU7XwoVzMPVWiRGWGL3ueU7XnbMoWGmiKWYB9y57Nk32_RyR6VFriK2-NnWhAf906bwjGA4f8o8f-ma-QHJmMfnlKeBWwWorIgSjhFQer-0xfsnFxL4s65Ojnc5ScDUnt1-c51-Q6r_g79sScoJgMmbgE6beEip2cBCL2rVyTkjgw8bXCrWvw&event=monitoring"
+          ],
+          "skipped": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABngjFxiGKaFiWqeGHRC0HknRdvQZXQKLCc8amMs7OEF6tgWL70DLNcVNBzliINRyBatLO1QBAPnc7M7Vry2_Hew5cp0G_u1T4lLWYbZxPMW4ghfIf7H-0-SflUwWI11pkanDKa1pLP3MlaNJ1sdtPp5n08J_an-EbDxtYAjC2f-T8vXtSZ_Laqj3pwKYPOy-z_c0DntpEIAJmzY0TACBLtaQhPYNiQsaFfaCh6MfxiftqfScEgChn6w3UU4TUz_JpGRkFGqpaKMCFHEtw9KIXJY-n0PWwvlRgIRRBoMWoKwkX3EtyK89yX5IbqrJrJ_HsDLBuskMyM7OpgXA&event=monitoring"
+          ],
+          "expanded": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AADWTERj-C66zE1Bz71oyLfaH0agQv04ZGC_TJTa1LoF2fISVje-GYJKjh-jWT6xVbA_HWmSy2YAgzcMIeokTN-G7HRbWSQhYdD2yarDlqubssYhs8XYLYJrDf6AIoPd5NTOmePB3gBezinyh5DHKKmD_FfK2HiUdVRCDtyBydX_xeszYw4I7Y-DnmsN-nREbAzhwKID15AcPNAXsDIkwSafQSeKW0eF0gZrtp3bKSqklFMUdn7VCIF1Lt6VMb5Rdhlfs68x8wgX8z5fG4nQlA07tqySrEH1NMVvakHeWNZQLb6tujLYYFh5CCYbYslgb6X9OSf2IGWYC1E7ea0&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=adfullscreen&ad_mt=[AD_MT]"
+          ],
+          "first_quartile": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AADmyPbaeOMsjGpjVJWBjGArPtCr321h4nR0LFc0OnLopFa_b4mtptsVkTeo9cxG5mGoG1rg-J1IenXlb3Hw68V5qoyj561PF8BJQ4AnqgxhrivkGNhNOXq3Bjg6fwuipDRHoKSvnMkVgxq8SDJGqkCFP9zm_GhMeIC2u0SMktv7H7JSzaTvmZsmPhU-LSgT4w7YnniTRsWzhvMtt2wqsEGAs23UeaaO95nxWikPdt_elmbmDbSybCeFDxoPs75AiMeQRqmPNXd8vqPGDht5TgvQujFYybkGi_VAiyAp0NzxvnVtsuQG78UWdOldXaeo5aXPz4H38EsojcS4W09Kq1V4Dcc&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=videoplaytime25&ad_mt=[AD_MT]"
+          ],
+          "viewed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACw3VKm2RQUw63xPr6A3TUT3o3zUipEoNcXJ9UDCgbaVEifjsyLZmk1Sbn67xaGWTIBXnHTFpYMRpNnvEMXGbowHo2ZjRxZ3xoM3afLUWwNDW_L1bV1n5BQizA85SzxTlb2C3N2nSWh5U0B0pPQQBokYPNLxda-71BwG2OZpBTIKvVgrbGwF1Q8BqSl7dezXgPprgwsIAJmGvXsM8A3TDTRhu0HG1i1zZ57xnyAiBnyrrs8v86CxtwsOpu37f3DxjhuGJsIW3u-RZ7LfxuAf3qrHn_8XrfO8sET0EfX60tPM2OMb3xjAerUyyMYKCGLc91T9MZ-mC0mb7Ll&event=monitoring",
+            "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuJitdFwECzjgOLhcJiFG_RPzWFEmWe1EuMj2eysrloALaAj0Pia5RjyTB-q5dgEeMERax8TkmcUxKYdHL7a4y4yt1fL3_HcFi8pnvpFXc1f430g7ftj89ke-zSme55bgiB3s84jl5HVbuxlRofG8KGxbBUFO_J-oF3aLY_6RTwZiw_SnGv1r4kvYY3yRSDqgf_n-lIWqKgyPW1JC_ppUOLOlMHZHVze9WV8WBmYsq1wdJhhnBl4aY9AoQd7o9aYX2k_rI&sai=AMfl-YSVlcaOcrgbBQqVDAlVpU37FOzTLF5y5Brv0I9TZLuJtVsN1ul3uMWqXeoXkZ52GpEoMhoNab-mi2UxMc8GOcuS3rQAOGgjM5_xzc5l&sig=Cg0ArKJSzJtlUdXjLUxoEAE&adurl=",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=vast_creativeview&ad_mt=[AD_MT]"
+          ],
+          "unmuted": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=adunmute&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADHc9ruKpuWKt84gogy1zkV9CxXUfVgHMt4ZNS62BnPnZwUKOJL_Fi0-FVSMCBXFhufo71H2uEJAyUwW_6jQcahKCRwE63MgQdwJhPnswl0h6X5HUaskR3TEc6WFjPyEaE5oG3yLhDgO-q6Y3sqBdv2exsi4j8uMxnLaHa7frBLhueW6Iuc1cievfjWpNnOVUMgByLCbSKbi7Od8ZIY_uDSWtV0UTUlUs9EIUUAZmNAhw4kpomPszC9qJ84SoseNFxpUs2k4mokZx2_QKGyAR32A0f0LBFRPtFHey6ZgwvImff_m6uYyFzitee16UICV0e1HZ6-ZL6WFC-cCQ&event=monitoring"
+          ],
+          "ended": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=videoplaytime100&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADMNdhk8UdCikURaBVHy_9Q8Kzf1KsZ0Mu_VYsi9KH-a-zP7TNJ8PURWU7T6OCKnzvpoAYodGH6PxdiQR1WSYGDmfKWv2PMLTanYzQqQo-fj_j_HowGhNKpgh1OiChlWBXOD1Gk-tFpizIqYZNHK0ig19yrdwnrp5aCcCajYhmJ2iNCntXdn63Cf4rZ91j2iPcezSCvRdb8i4yoGLRY1vQrFGKAeeE2AUbZKKlfCN9HRnQfU3MOsMvO_9dr3mkTQz3VRMfxhgf48zzi3WSKRk21lh-fVirP_6oQVFcaZj0NCFRHe82rncajLWJd2MfZQlssWtLybthA0Jo&event=monitoring"
+          ],
+          "midpoint": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=videoplaytime50&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AABzhQNLw1kr2wPfdy_gwp_PlCjX-O5nXNDEXcoIuoHOFa-dEF30p6r-sv_gb8dJQNCRgppT8IVDKRBAeweK3IBjzDbAGNumQcdD4DvPnJiWNL6h2keJ499gTW7NdrRQpRL19hH8E7RE5OWXYdjlGip6AaXNRx5XFtAZIiF8raRZOp7uU4r65B25LM3N_Dgi2Z0jdZ90P8CI-bRrfUxB4wkQ0FhKvJvru_pYTMjQ4w32v8PqrhVYlpcWGpiErhLV-T1c7-cAmguL6Ml-P739-tG72rq54VFRUGv6Rw2AKKTB6mJ6YSmlc2T2S0tvBvYIpvqqXh0u56vUbEkeuOA&event=monitoring"
+          ],
+          "resumed": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=adresume&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAUxU4oD8d3qEPx_iR0qFK26OnQ83m4SbPjqduI_MpCT4BLI_UK77CtggNMlwZKXDRmHNi9PrkfH-k1qsD-1hcVweW32u9QxeHuZiTgtvGvNILubXc1fgop_jhDl-hoZAfEPfx2h0-PCxh3_qQ_mh8q5zAQZTCF9XgpkQoxa__p2ZOYx6LOxEy6zLTgY4ol0tRXnuRaF15vh7dsBU_qvt-VImfWqlBSS1QyHo2gwBIkIZK0aeQY8olZHbEkKjc7d0nrkx7rdZPLKPAbdteyS9qD_frVuvYyfKaURfZ91nJO5IZ9VGS5eGdX9PGQ5PyQAzj7vy-WcbagepNJjw&event=monitoring"
+          ],
+          "muted": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACfGxgu9IdhL4gCFh4j0oI0L6s0acNPyi1H2SWjHMad8SJ1oc6WcPIe-ZVLMwvM9pyyNEGgE0kALLxgw1WWCUW4WCMJc2aaSMRJBj8sRkRL_wJXahWfepy-IBkzd4DvEWCUbI_F5CQZ6h4Ms17molGqCwjxDggXly8q9jhwEjtHeDpfurB_IDlQp8_jfnnQEvPE4bIuYKES50DEXoSkjIxja5_xoezrfTks-NHy3uAz99_gWfg7shvstRe8bNlmXwODHw9gwhcq56Wr7sIECZm7lSCMeOVgUMXpPe5SOMtRp_mBIV8QIt6eQXgBjvbrpEieCmW-WcmKHmc&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=admute&ad_mt=[AD_MT]"
+          ],
+          "errored": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACEpmYPTpQZ56eNbU0_SiYOCc9JfKQNOkX5Xs4OywEpils9Rgc07Yxi3xxgvJ42kc4K90S76Wim82-65cf3zumjYG3UasgZzZetsxmZCV1Mz86jwT0Wf_eZ46UZvehMX3OwYCL_l57-gWpYaoDa9sNKZnK8CU24yBwgF48Nk1D9oQEOXn4-xAf3XuUr0EbDegIXGhokK5dIipYAeVLjddxwNrQk2HMEvc6F9bOvOpV3l5E4ec0JvViDg1xnVvd59aO7W7Oc9kL-Q8CcjQQWOxOy_wxGJ4XJ2M6jSNDPzMBsEDjfGwzWMHIKWNBBN3GNDnqdRVsjk65sgjSM6A&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=videoplayfailed"
+          ],
+          "third_quartile": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABd0OCC4AuEZNCYZJ-01hvlvzdYPMNHZL7EjA83GW2Pd_YiZBI0CBaQbTFaTY_VwXhDwz3WcLooM6T_v7vZPyrkhlTQe2fffS5Jqop6EKdgTExs3x5UDfX4nLCeaLdtx7-uqWxXJ7J-TIC8fNTDsfTGXCUTecv4EqtOC6ewqtPncEaKEnUGDyYvEnX2CEaR_OEjramS1p5JN4bmIYrUOFUwa07MiWKSFOLHwY4eianZ2sSF1Zr3LcR3WLOS6KFBB9FxnX-khNCPDIGBQSSVuXJZB0CKcx0OybSFoNhjlFs9N45P_qb47zE9wo42RkWGLbjeEzDsBqXtcusSUi3ICzDVMTw&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=B4q3qJ3GVW82qFM7cBvyjh_gKjojhlEUAAAAQASC8rvkeOABYs-DO9YIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gC4U2pAg-ZKwAgYrM-wAIC4AIA6gIQLzY0NjUwNTIvZGVza3RvcPgChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEOCN3vMQkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=WrBXdO7NrEU&label=videoplaytime75&ad_mt=[AD_MT]"
+          ]
+        },
+        "metadata": {
+          "advertiser": "Disney",
+          "buttonMessage": "",
+          "lineitem_id": "4537681632",
+          "format": "audio/ogg",
+          "ad_system": "GDFP",
+          "title": "Disney",
+          "creative_id": "138222481459"
+        },
+        "cover_art": [
+          { "media_file": "72e682c658df53811481e47f2fc3d4878be5d079" },
+          {
+            "media_file": "https://i.scdn.co/image/72e682c658df53811481e47f2fc3d4878be5d079"
+          }
+        ],
+        "audio": [
+          {
+            "bitrate": 160,
+            "mimetype": "audio/mpeg",
+            "media_file": "https://creativeservice-production.scdn.co/mp3-ad/22041be974f07e93ad429a06e0d27a9e91153570.mp3",
+            "duration_sec": 30
+          },
+          {
+            "bitrate": 160,
+            "mimetype": "audio/ogg",
+            "media_file": "f6bc66cd5786548893074bab038e911a7fb7fcf6",
+            "duration_sec": 30
+          }
+        ],
+        "html": "",
+        "cleanup_timeout_ms": null,
+        "same_frame": null
+      },
+      {
+        "id": "000000011b5532c2000000202ff09ccb",
+        "dummy": false,
+        "clickthrough": "https://ad.doubleclick.net/ddm/trackclk/N3671.143769.SPOTIFY/B21340341.226039121;dc_trk_aid=425318125;dc_trk_cid=104431207;u=TV5 PAI~DC IMI~ DSP~ BID~;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=",
+        "tracking_events": {
+          "paused": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=adpause&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAzAyj_Btz7kn_2PaRVqcPVRUo7C_sA7mS8wQYCwToHhYH6sHda79BAfi1nYZQbHMfXPxaLdQNYHn1t9MAAp-wGFHHRZolhUBvIobliEQw4PiXqsatSU2YkHdVToF9QLKRpOLiDmZ72MHRtBgsGeFkk0NlXcCP8edkA1JiF9r7FegJHtB1zyKLctMmqgHChNSk__VlJqhUANadWRzos_f_H1znVhSof0EmvdqWewmee8nwBF8xCmL_R19T84xzGyI0LaMhdZ45B6ApcnLw7r0Z1ItC0YCRqzNxONAUA2ZZOe9ihcQPM8hWG6ga2QkZnv4xHmx7mryEC9FoRZTbP&event=monitoring"
+          ],
+          "collapsed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACRmAvgkjXSSvmG-2aEo3tyU9FMisrJv-Hs_s3JyWuOgsvLdq9LJhjrcqmcjEqbMiLC70VrJAQ6zUr-QjZu5kT5CWaRnj1gAUqgka5V-UrznHOdX_0aFDNGmHQYB6znmNgotnV9gmf73P9iLfBrptO1a4pXBMm1BO1xoZg8kqaFVNTRmE7by2cB4TfPzxjWDsxZsMXjp0WcyT8Z2CBRUYjHmfPPVcjo79Ne_MdxT_Mz4_YmyAMhe2WOwAIfhLTFHPf_Lk1ipAZ8r4YmPH8lrfBbs9EUI3yVnimF4TpaJpKEVT4avd7s-KenK_J6abyPwWbGBp8-jfPjz-uA5tHvcCsB&event=monitoring"
+          ],
+          "moat": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABs-BOlKXBpXgJ_TpwUSVXonP6EsNgd0RvlVpMIOYl4SCMSwWp_QYAVF8B8scTSgDaW4r_XxhAAODSW8gAUpaii0I3KgxoPjvrBotPSs8pdnyTUBlE0TFL_Uakg-GutBoSZNwxueyJQyXi9M-rTd2X-kRnXpK5sVbn6tYPmb34SXdxu-718hysUUPnCB45cF50J7GPnvjq-oV6mp0e0q9VRCEB8epVU0jPR2HCceh_TH3VYbIL_wh6_iveJarIQhruEMRshYdP9M_v3WYh-JJ13H4X7PHFbkeAWMGjoZSxbDvpoVgKqEH5yNt86UkpGZBFCXpb4D29zh0i3cw&event=monitoring"
+          ],
+          "started": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=part2viewed&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADjmcJhcAb7IsUumXa3EtyfDMFvsPrB4o-kXN-qTrOfAv3LTu7MqWYGbDV0Xko-A5mhSxsqYYPSS91Mo8__mUArjfCvr2-SSeJ1iUiL-tEwn-ivpLV1uPLmpMdeBPGzC39-mc2C-JTktn-mFewn9l7h0xZgUBuwEcvMDDkSk9JRRrrgahEfiKXNKu8JMz8RK3qc6bqlYHGo9b_F4Z8Q4SF-bW77ck9-CzPIl8VYoEgRtkYvo8FcSUSK0zF-lSqTYBZJy9vPznLswMZ-ZOEyfeEKz1keuJHQ_R3-93IJ8fK0UQAjd_7tvlz-rdAG5oUKmb0CqZly1-VNLAKLgBBdZA&event=monitoring"
+          ],
+          "clicked": [
+            "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsuoDSbOmTScQqqSFTG8IxT-eDyZdblwpb2KQtDcy8JL3DST3GkeiJmHml_meAWsCjl2fqCHjOMYzVKMDiFE4TzzxS1b3Gj1GDJHunj95TmjlJryThOES7JY6hJcBBrDSHM0e943W9ihrqIwYZ1G75ATlNzgSMJA2Ysu2IzihL6Q_nZMoou8t7OhNdeeDz0lDpxa4k1D_omhOOHwbtUmKGaCSXxOEgt0rjZw2YbzHw&sai=AMfl-YS9W5yNZqMib6WvVytbelUmz7MmMg6bt2AHDqYOjuvDmKCjgo2eUornCcqmukk2RxsYqMxOdWFPb1kcB7peF5OTZVWirE2uHdJUF5Hm&sig=Cg0ArKJSzH98pkNK1JQ_EAE&urlfix=1&adurl=",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADqKUGU0JjoeEnkPOcDewdbP7i2SPbBklLPADyXMDVDyHabAY3yOlWpEiXybaDcX-yAQ_kUnR4zCF7JiCeky3hxQtFNKdZB7LOvnrnjHXFvRrKgkqvuIyOy25gBlyAGvjj-u4YnS9xr_PmbndFf5voQVQSaj3DM6NOvPOJirmiMmjy73Fot4WA3l8PhMAMF2r0mSh6NOtC64se_VUx-izN_iyIgP9cuanhbXigS8suY4g_RtwBoGIuTbmvxspkW4jZVaNXRMGp0vCYBxXihphFhzZjilrlXGi69-NvCEg-XvaKuFq8B6NQWf03ipauhfB_mtcak6JYbvTrKbohK3A&event=monitoring"
+          ],
+          "skipped": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AADF1zpRFPU44dfRgE0PwVI2joyGqaNlS7XWnDr9x1qsYjEvBbHtAeK2yt4QgB-ldzCnFA_Jggv9T9q8vPq-Q9sdjujd3cKd3U2gVDecoQVFuteoaCLkvOUDzlrmEdXm48NJv0PLVgOz_8JWJ1ijvdlOVqIUaqQRvM8VmxPb6YVs7XG3nPtM_ghk6m17HV5v0X8vtzVkaEvfMuRqzWGStUDjtKimND2PyzlgbPKSTB6Hw7u75vyoiDKS-FZQAhI4VwD2rUQaYeAzgYSQeEq9EJ6lYA0g4f10-tYIjKbkyXBNMyVxCKh-rdF3cBEVOnPnq1PpsRQoMl3ZpkJkxSUqSg&event=monitoring"
+          ],
+          "expanded": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACo4AGmF3-n0yL8Lw58U7m9Mp18K3V5FPXdr9giOBuU7rOi0OuA7SWTMmHxCATKiPHgNE0T7Is1pKpA0KXsWBrnOGYePxEqPOGa0iWvw-33DuAED8f0h50IPVuhaA-tV0YR-QM2REfEygpkIu4iOKQi2ELSdCuG4T-ZgW55Jcr_bXseLr6uvowoo5H87lGxCYRn9nfzxbaCL3Xku_cNo-veFLFT9trcIaaMc2_yiXj5iWSoeDvNNwiZh3AiTP0hPtPIBRgHCpd0nf0qaR_ApY4qqyo4Qc0q3Qga6uiCZAtSjaiui-3_Mp3saQtFszpLyWGJO1CZm8Agb0-yPCxlsnA&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=adfullscreen&ad_mt=[AD_MT]"
+          ],
+          "first_quartile": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=videoplaytime25&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAaigUvxPG5gptcrbA4DfRHcPW_TE-_o2S8_ASFXDy_-oDhqXyj0HMo0euPVhWr86RTByrK9sH9KmfKCTtz99dcbEAvMmDKIEUbnAtro1j4AjmQLR-qN_sgq11ljpzNu74oq_Sle2E6DWwjFFjyyWHBK7VOyI1pDc8s40pIkqDRQY6Td-YKEVvv6b3xmvWbTSuarQVhk4c8m--W7ClfubAwXDZxYWRs0paK8Xw3XzIR8Si7aNwyCtg2Oyh3JbgPuIP567ze6kEXliMy2MXZzZMoxN1dcOSRRvV77yG-BvhhMHReShVkBawHC_VV1zMMRRdVGTuBbnRtZ0vgNkqgia_VBg9MfGs&event=monitoring"
+          ],
+          "viewed": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=vast_creativeview&ad_mt=[AD_MT]",
+            "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsueFC3fZl8gvM2nwh4Oj7lkdeAjgfNc28nF5UNG-Ks8rqe0tRWk-TIP28O8SVYt7BhkLnEzPPAikm3Y0KixRPJY58ZUApooLEbS61uxZaaxZQQcDOnpDrP45uzX7MhcYT4Rqutmp9FyM3wLIXdDw2kKW5w1V3wlFSoCgQv7A-PpWeTxSDFCxE8zi-U8_M4Aoyv190tWIjLABUYZMdsJsCYfJNxxGYeHbIycZ4xitZHuChgGs1FjEdInCJSee0RMQO1sAop4&sai=AMfl-YQOMIWb8UxWKEqXtAXT2hDhY38HQBBl9SAOYkQShvoNVeVXNecc_jv5BHsmmy7L6lvCGoxgr346bwd-P8PrG07DUaa6lSCVpNLIJ_nC&sig=Cg0ArKJSzI4B8o2j4rNzEAE&adurl=",
+            "https://ad.doubleclick.net/ddm/trackimp/N3671.143769.SPOTIFY/B21340341.226039121;dc_trk_aid=425318125;dc_trk_cid=104431207;u=TV5+PAI~DC+IMI~+DSP~+BID~;ord=149455107;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAD-kmG3Ujlaa2cRwCoF5KmZKifZSbmIySGquKWdFe1MifclO7E6nqljbXqSXCFEBTp1SIe_LfeKEk2o5gPSOwbNtxSV9Spl4uld-hr4vXBqGdgmpPoS6M7kaSbvcpnkyYYSwErYyi1j-RyCpMUQ5OFfKB5L9WlUghcgEa5OU4_4LPRcIMQ7k6PbHIinQ_gLrIJv2q48wYf4cG1jjzTtxftXSKfxCWihd5-VxS7hh31tmOjSJDEV4sU9keIKgmB43CgbcGfug8PiaT_kr5lzbGj_PDe2_wkKv15AOuodV1jU5N7pqe6wgpsTH9Ew7JOpuaN7WhRKd3husZQjRLhs&event=monitoring"
+          ],
+          "unmuted": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAC9dk8UFnXdXr-DtxXrNyTuy2gil2ZemLP0jxgg2LIxdWcrmDGChQjYk_TlZ5CS-aNqTyuk8Lw7hjkFM3rjXOhu95C0pyPo4r6ERUOTuGBAVhWGHhlLLTEq7VIbzofkpc6IDh4CH_9_ERgaq8WXHkGwlrb8W7wyp_bBE4CJ58uJhStlD-gAhcutnomy9gdHmNdPkFyK5fxJZ2L3V9ge36ojs7MADvRJaAuPddUTLcB5QlSxSBJS9t5NtF1qN6fD6WpFZIYLElbASz7dGJOHN6dwZW2Q4_qYoFmaUUFh8ramQj00V7U3Aq_jEZ3ZkqHYZSHkG3qWBbs8PFB08CHOgA&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=adunmute&ad_mt=[AD_MT]"
+          ],
+          "ended": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAMP6foD0uprgZAsd00x5K76UQcq4C5nzQyTchmzqnMKp9CH7lKFzlx4RroZFWW8U7e2iR3giZeAsv8uadkl6VsOMv4p7Gm1bqk3il9XvV3B22dYTo-Pe7SB0P4MdZidlQ4e_VxBd9UcFwwVmbC4rnUvsOt6bvrhVssZhhWHpJZMdML2DfZbyGYMEIz3m5xpFZjly4sKo8U-FK3QflcCFsN2z0LVZmsE5f6hcxECO7VLjdga1rU92OsAlGF67oxxOcpMGG15Ud7i_zvQsC4MGqtOmBF7auUhVqZoQ7OEX2ujGSwhk1M4dsdVZz3r2rsUGuvuZkqfi7eciUd9ow&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=videoplaytime100&ad_mt=[AD_MT]"
+          ],
+          "midpoint": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAA_mv7mcnOOURJoBLtSkPa0bm0MZXJUso6XfrZXkUQCDEm73hhJQ5k0Z-h1CcTpL-g--wlp3Fh1FsUIC2T6Dp8fHcnR4S01oQllRDn4hwNxdqkxjogpT-ZjXksA31SRb8aE_6TrvVmYOtda3wGHyiwQVycTelSgSrsd3rXmlskw6S2krjWkr_9PQaJ2iW0ycETlsbMVxvfLzniHeessGKer7j4J-F6lXkLeehmvdnMRapAYVCCOzUhKxDtcX7HswGff_tYqGyr1iqy9oDQ9qp8J-b2ZLg1Q4XIy76eUH-NQf1rHvcSn57z0T3CC0DXFO4uBYT98iK4wUYGWk9qR9BU&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=videoplaytime50&ad_mt=[AD_MT]"
+          ],
+          "resumed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAB0tW8K2PC5E7yJi6oUmmsXKKvWnID8V-tUuQZWVahq5emPKYvj1R5Isf7vCZpIZgkfoov-BRCBrMsKvaj-8hqbhJVvSb_GosRv-LiSwwtUwnRtjAsXtPkCwFtPgmsfZ1D-QJ330gLEPsfKcnSJowGW8GdyP7xmQenrOSSMByfKvN6emAgmpLkmyWabG6msIU64cm9Lra1Sbpn42CYP7vrK-uCMjt7lOvhvE6dcMi_5aL2ewNhcgkZJte2n3uw4l082Js4vF2RPknzaC-XtdB7HSZkiBR4MF0D1KoCToxEbaLUpT-nj3wk_QtsE3FcjMEYEu9mVA6SLBD6c22wA0w&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=adresume&ad_mt=[AD_MT]"
+          ],
+          "muted": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=admute&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AABfnmm8BRqDIr_WUB-g0TeCQfdGj2kSFbpcpEbWbKMCshiIzOqTeV6AMsU4X9_glVhZ6fS8okrvy2EFSL7gsmv-cqEd33ILi-7aBiFjAEJlliObsKUPbv3Q0GlCO8Hq9maSXtIhMrfWR6QHauF7iY6FgasYv-QvL2n_OPjZEGDuKjzq93GKcnVuwdhV6I-U38ziLddhkKJxMPP8iJZossGkxmOCOH9RbHgEOt9OA-PDtTF8OnlIpTq5g_IfwfgDZVahdSGDwSda7VkfTxlYrd4k9nvdEtYabOyFaJy-_gQz-rtRJt5meVGbXH1MsZkW3HtUAN2pDMXnTQV3hq0&event=monitoring"
+          ],
+          "errored": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACaLzM-PTNkYKZ2oLKBbbHTJWjyPxqxSa_yVqoizL_fewNjI55q-nL7f_RZTJW2spsaQHH9bwRdavbCZI8h1kDIh-hUgOx3ovrGxh4cea59m8ux-tqEpWNNO0nBqHFkUnHNiXmmuc-nA3gUDSdCni3_D4TtG4qw9xIeHfIUWRAkRrdgcU0ZrssSH0RPWV1Yh37sWwarzBmADGNJ3tP-tzz_MfvpP679gV6ZAm6tAwZo0noDe-CnI02fpEry4n5WDDPOH-6X8CG8KEctQmVR5takGbU4rbtkcfw3Gy_mNYU2Nw0FCVbLVZh8zi4gDpNtQRGaPy5SE6KQ-5Ba9SucSA&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=videoplayfailed"
+          ],
+          "third_quartile": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BFc4QJ3GVW8yjIM7cBvyjh_gKzLr2pkUAAAAQASC8rvkeOABYy7nC_4IEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL5gCuqsGqQIPmSsAIGKzPsACAuACAOoCEC82NDY1MDUyL2Rlc2t0b3D4AoTSHpAD4AOYA9AFqAMB0ASQTuAEAdIFBhDC5dTaEZAGAaAGI6gHmM4b2AcB4AcP0ggHCIBhEAEYAw&sigh=kiwGYRhWBHI&label=videoplaytime75&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAB11hIu6_74IBNRvLfrfTM54YvjU-gYCsgn4vpDcs_yXI8zZDaKbrXJBu0q0Zyyh2Inq4nJ1TXADUQhuvTTkmVb6FMBbRc65Y14mbo65kLLTgPbyfABxkPl8haijJlj55dQjHMqDGTAjyjKFZQkUJe0MDMqUI-rwGVfcGDplRut2AmsgRCHy8yHSBpLmg0oEwUDsBvMiCgXbEhGymVsIWIHa3HviP4OpsGnsYYwrMuq93m8jx2WJ0KF8BbvjRyzmljK8VYrAheLj1injrEYVATRVaLKpbZsB-rNl75nOp-7E2RIrrzH1OcaNTDJUZzkgvDuUXu-SZav_JngV7qh7m2hGlbDmn8&event=monitoring"
+          ]
+        },
+        "metadata": {
+          "advertiser": "T-Mobile",
+          "moat.enabled": "false",
+          "iastag": "https://pixel.adsafeprotected.com/rfw/st/176939/27616453/skeleton.gif",
+          "buttonMessage": "Learn More",
+          "lineitem_id": "4753535682",
+          "format": "video/mp4",
+          "title": "T-Mobile",
+          "product_name": "mobile_video_takeover",
+          "creative_id": "138243251403",
+          "advertiser_id": "50429772",
+          "require_focus": "true",
+          "ad_system": "GDFP",
+          "order_id": "2362057335"
+        },
+        "cover_art": [
+          { "media_file": "2ddeb7def6b97863963d63631021a3aa0a542808" },
+          {
+            "media_file": "https://d3rt1990lpmkn.cloudfront.net/unbranded/2ddeb7def6b97863963d63631021a3aa0a542808"
+          }
+        ],
+        "video": [
+          {
+            "width": 2,
+            "height": 2,
+            "bitrate": 160,
+            "mimetype": "video/mp4",
+            "media_file": "https://creativeservice-production.scdn.co/video-placeholders/15.mp4",
+            "duration_sec": 15
+          },
+          {
+            "mimetype": "video/mp4",
+            "media_file": "b78e61069c1449ef8215ca7e4f7d3829"
+          }
+        ],
+        "html": "",
+        "cleanup_timeout_ms": null,
+        "same_frame": null
+      },
+      {
+        "id": "1d62355d433875117c988346ff8d780e",
+        "dummy": false,
+        "clickthrough": "https://search.spotxchange.com/click?_a=150795&_p=1c3e6.79d21.91d6&_z=1&_m=eNpFj9tKw0AQhtdXyaWY7cyesil4J0qliYgtYm%2FC7mbbpiVJaVp6UJ%2B9bqzgDAzMP%2F%2FMxwgKQAhByZVkIHRCUg9OQSKtUALRayNViamXzHIHABi8kKSSTN9IwijqlCpBmUCy3O023XAw6DbtrpqfqGtr8hntO78tFvuqjIaR08DnWkuLjPenrbcenTc8oB9DRHdXe9UVjT%2BEhSC4tl1Xvijb2lRNkG5p583WLWmPObqlaRa%2BRwWr2ZeVb5wvfmEMWDl3UsUGrYt7XGyYKmMU1qVpkvS%2FRN8EUSqtyA3Jp%2BPxtSC5hCBKwJErCO3%2F6G8e8itbZTx7GEF%2BztjsfXSYPT3X2erjNKtH53wy5fl5HbRX8TLJ7n8AZMNlYA%3D%3D&_l=eNptTl1rg0AQ3N9yz0Xuy1MDfTMESqKUYFt8kfNubawmilFqm%2Ba%2F94ovJe0uOywzw%2B4wYOC7YfADRqDygshy5kXMqr9EtgcKFnXr3BciyOpCytqSFaEeFZQyckd6%2FdFN40LxkNNIOvLc4%2BnGNpVtbQqczUGfXrGoEBddUepkMw16RFsc9dDg2Lfa4D9eV%2BR6hSTbbhdwsfZ9N74sRji%2F11WFg2e6IyhTGSVLLU2puFVIbVVZ7qPAUHFuSghcXHCrkMAlDZaDjPkqVL8%2BUNdMiCiU8JV8NvOOPxyS%2BKlN4kzmb49zHq%2F9dOO4Td6kz5lI47XYxdn9N%2BOkYM0%3D&_t=eNoljEtvgzAMgPNbcq6mvHgF7dZeKtFd0FB3QSFEJSqQiGRTO8Z%2FX1IsWbY%2F%2B7MctbyDQiWFwIR0LGUYq1wkaY8DJB2VCCEM5CD0DMxyE7OWQL6kFTolFjm0zioJ%2BQqtWMSkvFpcnHr1o6WKnXr4WJw1%2FtHuuBXWtv5pwx5vBziZXo2QkwM0wSVbCADwG0JA8IyvjqccWuO8GGGpOSYZZaXjlEM9iUgoyzIUUbi7jabb71AAGYfSfM9%2BeUZCCN29fvfyFO3Som7azBFlJP5hQdP%2B5eRJUW4AU1rk7O9ay99LyKoepo9jP1TNiVXHE7rUn%2Fev6cSuzXmopvNYNdX7P0kKao4%3D&_b=eNrFU11r20AQ9G8RWE%2Bxfbf3KYMoCXbS0tiF1HkpBnO%2BO0WKZUmVz2maNP%2B9KzmhhfalTxVC7M7uaEarPTLIQ2gO08nEhcO4qKr6oXBjW%2B8nttyF9jgxNhR1NXnA9F3T1vfehk1uDnlK8y1kRWzLwldhU7gUlCYxsn3dZYwmTEJsc1NVvuyQhCec67g5bsvikPu2wygoGjelsX7fvSWYuw4l8ZvSIZjgU4jblAomBRCulYbfKScvWTg2Ij55TU%2FOO2d2l%2FafN2TnQ7jE27ixq9GA74vjygcEndvjM7TG7pCK4VIoqcaguZBy9X6%2BujmfzWfzzx%2BxdAGUaZpwNgbgCdYFGbILZzeh3W1M4YZsxgESJhIGvwq2L1DCBFFCKiwcMVck40A8GXFLYMS3CRslmtiRA6uMdUxnxmKrbT02f23yR7NrHhEw7g6B1runnLOTSGkCQqe4db0aJt04s7rd2Lwo3cYVLY7UO3TkTeiG99qVHQ1Gg%2BXt9fUg8cIQsH7LJafUayOkowjCltlLvAbPEeUqmj5H9ngI9X7jTDDRNHpeR5QQouQ6mvahWkdnr5g4YevoJTp7o3W%2FDWnUGukZtdI5owAY7ohVLBOKkq1LKCAhq5GCra%2BbFL2cRQD6fzhw3vTygrB%2FkWegeoz%2FVR9cJgUut9Ak0RKPlKBUm4xTq4Xg0v6h%2F%2FJjsbosP13NHxdP53R5f%2Ft9Cbd8ufpAvswuisXV%2FNtydZMvZphfLdKfczgqUA%3D%3D",
+        "tracking_events": {
+          "paused": [
+            "https://insight.adsrvr.org/enduser/video/?ve=pause&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0",
+            "https://adeventtracker.spotify.com/monitoring?pload=AABvNyeP2rAhBslzx4UhiOjOeM6fis68GmKiKDjE347IpDlHTH-flyA4QVdmBCVQGlN-64MdsO6Hkk96rxMdbbS4-8iUDygjZ7rCVtZWZRrVYDq-jSd5c-Qmyd8T0iReTG3c-7mhyiBB4rUsrWXg3LpwVpOdpBFsT-tTNHJ_zcCVFug_fOaqGSrzY7kzfFZR8AYRu0Cv5Gpw8nxZtMhzkqE-9rjbDKyJuyZ9gq6eyEmnDTbSgeuJfr2spCNAkNyVMndfHBxYMjQLQWn3Q8YugV52m_vuooOYZOqpzIQFWxw5vHjmybWhCJyFwoLsc4QB0uCx7OKob9sirY7EqmW-HZMKIHx8v1X7BWZHOkKWmYxZ6zy0TGBJgIaxvx93OoNx91g8gX2JlZxxHogquHmQrPlvzKM4WCmceeVy-1zMdExnF0lUZWuVIJsGihtqBH4tVb0hroMbew&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=adpause&ad_mt=[AD_MT]"
+          ],
+          "collapsed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AADzCN7ha6uAtyU-XbXhaMQfuvwNbawL18vnSRLm_Ibwh4KaDv3tRqqq5M4o2gV9-HJtKIU-oZTPXVJ4yIoMbULOmfmbGyfPh88rKjVtJ5fPChTIzdFTF9CeL4KQIUNob0vdr1wHbRauvxToPG22mzdkU-Pe2aJurPHZeVCzrdBj7SiKZgv1N18WbMDI__USNT3oNo2H2DJpvaFbST6rVti7nFYaxfpxdIZPObANhBDoWcD40JOoHzqZs0xQ_o2DEZVRnscBW8B_7JuaAMwJm_zDT_BvUYvEtDws9GnXgHfNiDtbvkNlhLbHdkciXUYlgFdjgPZVXOZff5SyDp7DzDQ-5o2FfuuemT_mxfmIz0bKfJ9oBAOl4O0mNnlhN0EArdU_KJvO4lCuDGZQ3hGjxMCVVYHM6X-4bhgX1J1EFN-_8MI9MP1XOUV7bDVBY50wWCbEPkJ6WMHdWA&event=monitoring"
+          ],
+          "moat": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAD8Z3dyylcef51jj2o9lqM6mUA1gblKUTf2_WCY7VoZIk65t9Hvy7MToauarHS_BN4ie2Q1raeQ-9C5E-4ops4D47rSLcqFFzvZccfmBnVspRMV0zaFeXfENR8sqYNPryVsiCScFTjwP1GzbOSclM34I2m8zbyAxKPefRWJWeyD3HJ1YENJPoiAMzU-IlxREQvZJRjtaIY4KqE4PQ7Gpr8cIMOb-6yYHEbIzZRZWbaEsa_Y2paURVDBaM1kQueIAa2e_8a4Qz-ELg824sDShxrMulvJAtQy_5kguVw_Q37tXL1mpUHSMENMxxrwcvvQkRNX4A5lgmzJBHrGFuBN5ggMUcGy00qYB-v_6PWfXb8Uy3--idEIkyVovqVS9vU86PmLCTXw_2H3XKV18wGZx2jI9uKbRxzxYlnjvJDJgU7E0NWhMTP1tBZID6Hh9SIOz236VII&event=monitoring"
+          ],
+          "started": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=part2viewed&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AABYvtLAggRyfWBThZ2E-c4DNva56RcXipySJo-Pdub6Jk2rqBft_EW-jz2CA90HIQtuIMaHHo2O-VY0CUfiZkxMEpF-2Z2qsFdDrDdjyXeXdPVXUTt9Obvq--z8ltMBGf5o3PCnJ6fwd9nzqWB-GN8xLNkrqcBBtMqcXapLd0A1g1-IOiLAAplxgc_EJfKBnXWHgALqFyUk3qjx3w6hFgEVL6aDNAcFLJM9ZH5gEBTBDZ4ae-Pdu12p-jmBt91FTfu4YBbXZ7w2cj476tupHVBYgQvApSGeJH5jyH9u5J2zw6UgzCjvGVBfLUkV_sUwMwnsOjryExmhbiWqK12_uINrKDb9N_ebMn7phbuSoSnvQqgk-tIC4J61BOGEtBkWacSicml2cpElt7RlYJQ4uQmL3rvaD3vgFKsqzg9e7XA5ethqe7GH59KcDzkMTbC2hK5E8E8P3iU&event=monitoring"
+          ],
+          "clicked": [
+            "https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjstydZaDryix-OpZAkcKdZx8vL_PYbY55D8u0ceybTCp9kYUZ3Ctwtgiw1DEFtWwTs25UbKcReyB6Nejn2D08uQta7Jeas-3whEysz1pOHBLLaHBO1Wmti6-Ze7_NemMDu6AVOXQoX2O7TErPKq6v4vuubDfc-lYh__zVpBNC0IOJz3vAWcOAb5UNFH1clKMcbbmOEKQHC37y0JoTYSp19lTJiEswOUA7vnv8kKl4w&sai=AMfl-YQpe9yirYCIjXf216agIhv4pI1GYak0ZVM3daXt6He6e-3sSe7YRSVkvZd0ETpY4pnESMBPtVmyAbPYDGx45d0IBKobx90rg7cuS-o_&sig=Cg0ArKJSzMWidL-8clsoEAE&urlfix=1",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADbQdAATtgclZk2DojuYMdMBsvw0nKh8nIZVDIeaufEF4MR1sVQCjgaumQxm49wSqV_SRlNn7zuUugOFiKOsfUNswH8UFot66upLiiutV-5rgtKt-JLjkni2daheum2Q2MhS0MSbV-LgoNNucpt_1cWANVqb48X8Qi58ls6drf0r0t6fWPDgbzV583oA9qMb1Ch9qdK0lnCjevStn6_P6QMDrNpFm87WZCKxtOCJKS1cZn-qj9-Zbu2_JVqC8A943vP58frZ5-RI-BRWXV0jeQ4tU5BYZzdjFgsvsWBR5lxF-PM3rnu37NHiTW5psro7rNAemz3uLoK_0u6bN-CA49kkpOKuU2mWmyxZRf-_ftIYerWXAQhrSY0zGM-_4aCMjC4r0E5HCExxrdqTNOTfUwE7uguMe8QLdCgnSbgQE49D_3n_V16yRtDPKL6cO17NHQ-Xbhkjz8&event=monitoring",
+            "https://insight.adsrvr.org/track/clk?imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&sfe=dccf127&sig=w9ZXxHs-430mIgaQUmfODPzgz0eev_hUR-Awpjv8G-c.&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=1&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&r=",
+            "https://d.agkn.com/pixel/4134/?che=120346&col=758236,13,3209767,,6474998,70f420e0-4c02-4b93-980c-d2c7acd38fac&l0="
+          ],
+          "skipped": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABhzAevn9K_ISsbLyUtBU1TfNwu12PN-eCcLodbAZmuVk2eFZOsDHiuqvyNiUwQA0tGq14OXRA4zPe0gF8QTm4ygD1Bcjc9iEXs2RH0k5zNk7kg19MbWgpkCs9tFX8G5PiLf-rJF3uIAkcRlQ53__Py_K0PdpHcZmSxoRGu3UF7ecLi-GMrqN0gBkPzWvRpki1hpirleX5ZvpMPk0LUADgaZWuCRBs9wIBTy7OEpL8uEPb-ZvOSav9_IVrmNjYGnAoWiTWi92uOS20QKzLPzRB9UvqfGAThUPFUUuY0SjXuTyyEjfK2Ba7pIbdEPmSNM9udm-gPOvtKhtnlWJn2-6ST24g4yCyRyIKY4vb7dxDx2iMX1nItiAMqJyRkq795L-x0R5i19ta_XphTI8Z-9GAGwOVGhK9gIrAJTowMKwI-GhYwJzEBBHR6Guc5K500KJFr0O4_9Iw&event=monitoring"
+          ],
+          "expanded": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=adfullscreen&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAANvXK1cZrDgtiuSH9qa2GQiuhRLXc98mo1kFuTcaIczRmhZ7jVjvpPBcJUTj5YPHFdjImqyT-Lo_h-r8sO8R9Uq9dOO44MPaKEGZBgRS_NNIke2xFSOttVIojoKivIh7ij5_mYUleP9MzYg4TYWYMDCr4ptPgLGoJF_gTHm2io8AuClxqFlQqOc3UxXllMuFzLt_tE-eQeV6KUHf6-96E1TNeiwN1xXjg-DsJDuvpJVf_PcEbwsntWLzz6bORa2rR-5_bN5s_xoC-vVhE4YjVLu4pSifAflmHVt5AaLhSs7emO3cFqIyd6XbDQ5Ns-1oiS64tWw2Xf7GZXpv0r8aoFFElJyGmXFe_c2O97VMdNnB8ICKPRQmVTTrb5JPkP1Dm_fzsdySF-e-UZi7b0_kBxxGniedBuIpPtbGHTTom7Y69cCw9Kp83g5iDPbAVZSD7e0kASKfg1&event=monitoring",
+            "https://insight.adsrvr.org/enduser/video/?ve=fullscreen&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0"
+          ],
+          "first_quartile": [
+            "https://search.spotxchange.com/beacon?_a=150795&_p=1c3e6.79d21.91d6&_z=1&_m=eNpFizsLwkAQhPcXye7d7SZXWASsQi4WXpRNZx5FgqmV4G9Xzwc4AwPDN%2BM2iABAbIUNujwDP2IvmHHnxBGN%2BZllID%2By6WyPiJS2mHmG5gDvI7HkAo%2BPoG6q6hsEzyQQhzcrmOof%2FXjyvT2pCXOB7VxO%2B91wUXOcw1pcdQmsSz3VUVeNajWG7QuqUS%2Fw&_l=eNptj09PwkAQxeez7Nk0s3%2B6tCTcDARDIaC1qZdm2R0FWbHBNliR7%2B6SXghxMvMOv%2FcObzhwiMNxCIvArSQdDVIneJRypyF%2FDNSR8cE%2BMcmGJ7beOjZkGKFE5OyO1ab7bJseiURgqgL8qml%2FE2vXfmsr%2BrYbs3%2Bj6pWo9zVisG17MA256sMcdtTU3lj6JxuGnc8wz2ezXi7FIVTUQkgFQuGg55zHOtFXQbx8J2WaKPgtf2yX3U%2FjxWSpymK1WTyNdy%2FFs8%2FEgy%2BLvJtPlsdMjN%2FLYjr6AyvQSn8%3D&_t=eNpFUduO2jAQzaes%2FMxCLrBaIvWBlm5FS7JoC6xoqSzHHjaGEFu2w7X9947DVs3DOeMzF49PCmBc1cEQBkMWxXHRf%2BhHETyywYOIUIyLhIdhGAW8ZLIOlHljteRBceu6kltA3VkDSYkB3hgj6zfSIbpiZyf3Xo4GeD5IAYoeWCUF3UhjHd0Y1qYxyQS1Z%2BtgT9IrMa7whAPcRpk9xST2lMyWJK2bquoQy0toW5WGGstpTGOcsgEQtDEVJkrndLrurXuNPd4XUtxbrdypy4Q1B9PFZ6x7qLYgwKx7bdpvqSVJf5LlbDQZ47Fl%2BvU7htmsj%2Fg0XSK%2Bfv6YIY1Gn1qppWyWeOyPEJ%2B%2FeHx5%2FrZAmi%2Bx%2Fxcu3WitjLO395DUmQY6hFcSakcNWFUdcP2jYVqDsSTdsMr%2BL7BoH0nDPx0imGP4wnkJd3PDBNyNwe786tglVe397oYECy0ww0tqNfDWT%2Bb9du3sKxFwkBx8BCfnqXWA3mSKO7z%2FU284ztorAdU%2F%2B5V91%2FELArwtDPLFdBpESTJ87P%2FO5k%2FVj%2F0kyl8nx2y7SLLtLlltJ3E23iX5ZXXK5%2Fkuv0wuqwv%2F8BcYU9BC&_b=eNozYvAL9fFBI2p8qxwNIrOyK6JCUnL8XUIr%2FEIyMiOz0iv83X0rfLOyTX2rko38XVwrIqsibQGT7hUz&beacon_type=recurring&view_percent=25",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAajJQda5Kfd3KLFkVkMDWQeAuP75GVGN9YaiS802EU92UrZHG_k9Ga2R89BdKyvjnYgXqEQKkC1AQ-39yN1WREEidtKKc19LJTeNfOXCZyfsW116kx5jfUXAFeEYLOUHz53xlPjdomrOc5dmGU1ONdwU9x951cdpj6IgVAD9w1-njwpJXpDr6n2t78Sfj8Cpcd6P-54C8uqwxysX1QJv3sinC0KNtKUeYiR4dX32FicqstKhiJUVfIBTUCP5To2yE5-RzJVQ7r52f3k0aLe1edAjumJIM9Fbt_ZPvEPJClj_ZFiQmZPmhl2xl_hn5YT_91ZEsOv2_NU_WXjBCFuzvsFN-ZKURRvYyMQre806o0AEDm3POVs5j2hGBncEMKlkwgENtZaTx1igBwn4K71rGcUB-UK8nN68zqxXinj0IQ5yg2xxUgvRQKoSND6MroPGlzHXMJwzUVdmCa3U1r&event=monitoring",
+            "https://s.innovid.com/1x1.gif?project_hash=1hb2fi&client_id=2780&video_id=319362&channel_id=949448&publisher_id=1271&placement_tag_id=0&project_state=2&r=1536520487821&placement_hash=1ftup5&action=vpoint&event_id=percent&event_value=25",
+            "https://event.spotxchange.com/vast/25?_x=WzE1MzY1MjA0ODcsIjllMGM2MDc1YjQ2NDExZThhNTZkMTllNTJiM2MwMDAxIiwiMTUwNzk1IiwiMWMzZTYuNzlkMjEuOTFkNiIsIjcwMjgiLCIxYzNlNi43OWQyMS45MWQ2IiwicXBoeGFrcHgiXSZzZXRlYz1OV1ZpWW1KaU4yRmxORGt6T1RBM01EUXpabVpsTWpFM1pEQmtaV1ZrTXpFPQ~~",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=videoplaytime25&ad_mt=[AD_MT]",
+            "https://insight.adsrvr.org/enduser/video/?ve=firstQuartile&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0"
+          ],
+          "viewed": [
+            "https://sync.search.spotxchange.com/partner?source=spotx",
+            "https://sb.scorecardresearch.com/p?c1=2&c2=6272977&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=1536520488122763&ns_st_ec=1&ns_st_cn=1&ns_st_ev=play&ns_st_ct=va&ns_st_cl=0&ns_st_pt=0&c3=150795&c4=1c3e6.79d21.91d6&c6=7028&ns_ts=1536520488122763",
+            "https://sync.search.spotxchange.com/audience_sync/3?spotx_push=1&spotx_audience_id=202dfc56-a1bc-11e8-a26d-14bc99770001&redir=https%3A%2F%2Floadm.exelator.com%2Fload%2F%3Fp%3D204%26g%3D1135%26j%3D0%26buid%3D202dfc56-a1bc-11e8-a26d-14bc99770001",
+            "http://bh.contextweb.com/bh/rtset?pid=560212&ev=1&rurl=https%3A%2F%2Fsync.search.spotxchange.com%2Fpartner%3Fadv_id%3D8185%26uid%3D%25%25VGUID%25%25",
+            "http://sync.tidaltv.com/genericusersync.ashx?dpid=spotx",
+            "https://sync.search.spotxchange.com/audience_sync/13?spotx_push=1&spotx_audience_id=202dfc56-a1bc-11e8-a26d-14bc99770001&redir=https%3A%2F%2Fdpm.demdex.net%2Fibs%3Adpid%3D178522%26dpuuid%3D202dfc56-a1bc-11e8-a26d-14bc99770001",
+            "http://pr-bh.ybp.yahoo.com/sync/spotx/202dfc56-a1bc-11e8-a26d-14bc99770001",
+            "http://b.scorecardresearch.com/b?c1=1&c2=6272977&c3=150795&cv=1.3&cj=1",
+            "https://pixel.moatads.com/pixel.gif?e=0&ac=1&bq=7&i=INNOVID_INT1&t=1536520487821&de=1536520487821&d=58834%3A1271%3A963110%3A319362&zMoatAccount=2780&zMoatAdvertiser=1698&zMoatTRAN=70f420e0-4c02-4b93-980c-d2c7acd38fac&zMoatAccountAdv=2780%20%7C%201698&zMoatAdvPub=1698%20%7C%201271&zMoatAccountAdvPub=2780%20%7C%201698%20%7C%201271&cs=0",
+            "https://vop.sundaysky.com/sync/dmp?redirect=https%3A//sync.search.spotxchange.com/partner%3Fadv_id%3D6434%26uid%3D%7Bssky_uuid%7D%26img%3D1",
+            "https://sync.search.spotxchange.com/audience_sync/15?spotx_push=1&spotx_audience_id=202dfc56-a1bc-11e8-a26d-14bc99770001&redir=https%3A%2F%2Faa.agkn.com%2Fadscores%2Fg.pixel%3Fsid%3D9212291758%26puid%3D202dfc56-a1bc-11e8-a26d-14bc99770001",
+            "https://ad.sxp.smartclip.net/sync?type=red&dsp=48&dspuuid=202dfc56-a1bc-11e8-a26d-14bc99770001",
+            "https://sync.search.spotxchange.com/audience_sync/7?spotx_push=1&spotx_audience_id=202dfc56-a1bc-11e8-a26d-14bc99770001&redir=https%3A%2F%2Fsync.crwdcntrl.net%2Fmap%2Fc%3D4914%2Ftp%3DSPXC%2Ftpid%3D202dfc56-a1bc-11e8-a26d-14bc99770001",
+            "https://sync.search.spotxchange.com/audience_sync/18?spotx_push=1&spotx_audience_id=202dfc56-a1bc-11e8-a26d-14bc99770001&redir=https%3A%2F%2Fmid.rkdms.com%2Fbct%3Fpid%3Dc3a70011-3c5e-43d1-a871-fb23c6b5a44f%26puid%3D202dfc56-a1bc-11e8-a26d-14bc99770001%26_ct%3Dimg",
+            "https://sync.search.spotxchange.com/audience_sync/2?spotx_push=1&spotx_audience_id=202dfc56-a1bc-11e8-a26d-14bc99770001&redir=https%3A%2F%2Ftags.bluekai.com%2Fsite%2F53296%3Flimit%3D0%26id%3D202dfc56-a1bc-11e8-a26d-14bc99770001",
+            "https://d.agkn.com/pixel/4133/?che=996197&col=758236,13,3209767,0,6474998,70f420e0-4c02-4b93-980c-d2c7acd38fac&tdid=",
+            "https://sync.search.spotxchange.com/audience_sync/8?spotx_push=1&spotx_audience_id=202dfc56-a1bc-11e8-a26d-14bc99770001&redir=https%3A%2F%2Fidsync.rlcdn.com%2F397806.gif%3Fpartner_uid%3D202dfc56-a1bc-11e8-a26d-14bc99770001",
+            "https://match.prod.bidr.io/cookie-sync/sx",
+            "https://sync.search.spotxchange.com/audience_sync/12?spotx_push=1&spotx_audience_id=202dfc56-a1bc-11e8-a26d-14bc99770001&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dspotx%26google_hm%3DMjAyZGZjNTYtYTFiYy0xMWU4LWEyNmQtMTRiYzk5NzcwMDAx",
+            "http://gu.dyntrk.com/adx/sx/us.php?dynk=spt1ex",
+            "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnapi29097&am=41&ep=1&at=view&rt=banner&st=image&ca=cmp1158957&cr=qphxakpx&pc=redzh43&ce=thetradedeskapi&r=774178",
+            "https://ad.turn.com/r/cs?pid=16",
+            "https://s.innovid.com/1x1.gif?project_hash=1hb2fi&client_id=2780&video_id=319362&channel_id=949448&publisher_id=1271&placement_tag_id=0&project_state=2&r=1536520487821&placement_hash=1ftup5&action=init",
+            "https://usw-lax.adsrvr.org/bid/feedback/spotx?iid=70f420e0-4c02-4b93-980c-d2c7acd38fac&crid=qphxakpx&wp=1&aid=1&wpc=USD&sfe=dccf127&puid=&tdid=&pid=57igcjz&ag=redzh43&sig=w9ZXxHs-430mIgaQUmfODPzgz0eev_hUR-Awpjv8G-c.&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&svbttd=1&dt=PC&osf=OSX&os=Other&br=Chrome&rlangs=01&mlang=&svpid=115686&did=1c3e6.79d21.91d6&rcxt=Other&lat=28.618500&lon=-81.433600&tmpc=30.78&daid=&vp=0&osi=&osv=&bp=30.01&bffi=7&mk=Apple&mdl=Chrome%20-%20OS%20X&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&atst=1",
+            "https://event.spotxchange.com/vast/impression?_x=WzE1MzY1MjA0ODcsIjllMGM2MDc1YjQ2NDExZThhNTZkMTllNTJiM2MwMDAxIiwiMTUwNzk1IiwiMWMzZTYuNzlkMjEuOTFkNiIsIjcwMjgiLCIxYzNlNi43OWQyMS45MWQ2IiwicXBoeGFrcHgiLCIyMDJkZmM1Ni1hMWJjLTExZTgtYTI2ZC0xNGJjOTk3NzAwMDEiXSZzZXRlYz1ORFJqTURRMVl6UXdZemcxTUdJMFlqVTFZMk5oTm1Wa1pXTXlObUV5TnpNPQ~~",
+            "https://rtb.gumgum.com/getuid/9b0d8b39?r=https%3A%2F%2Fsync.search.spotxchange.com%2Fpartner%3Fadv_id%3D8343%26uid%3D",
+            "http://ib.adnxs.com/getuid?https://sync.search.spotxchange.com/partner?adv_id=7715&uid=$UID",
+            "https://search.spotxchange.com/beacon?_a=150795&_p=1c3e6.79d21.91d6&_z=1&_m=eNpFj9tKw0AQhtdXyaWY7cyesil4J0qliYgtYm%2FC7mbbpiVJaVp6UJ%2B9bqzgDAzMP%2F%2FMxwgKQAhByZVkIHRCUg9OQSKtUALRayNViamXzHIHABi8kKSSTN9IwijqlCpBmUCy3O023XAw6DbtrpqfqGtr8hntO78tFvuqjIaR08DnWkuLjPenrbcenTc8oB9DRHdXe9UVjT%2BEhSC4tl1Xvijb2lRNkG5p583WLWmPObqlaRa%2BRwWr2ZeVb5wvfmEMWDl3UsUGrYt7XGyYKmMU1qVpkvS%2FRN8EUSqtyA3Jp%2BPxtSC5hCBKwJErCO3%2F6G8e8itbZTx7GEF%2BztjsfXSYPT3X2erjNKtH53wy5fl5HbRX8TLJ7n8AZMNlYA%3D%3D&_l=eNptTl1rg0AQ3N9yz0Xuy1MDfTMESqKUYFt8kfNubawmilFqm%2Ba%2F94ovJe0uOywzw%2B4wYOC7YfADRqDygshy5kXMqr9EtgcKFnXr3BciyOpCytqSFaEeFZQyckd6%2FdFN40LxkNNIOvLc4%2BnGNpVtbQqczUGfXrGoEBddUepkMw16RFsc9dDg2Lfa4D9eV%2BR6hSTbbhdwsfZ9N74sRji%2F11WFg2e6IyhTGSVLLU2puFVIbVVZ7qPAUHFuSghcXHCrkMAlDZaDjPkqVL8%2BUNdMiCiU8JV8NvOOPxyS%2BKlN4kzmb49zHq%2F9dOO4Td6kz5lI47XYxdn9N%2BOkYM0%3D&_t=eNpFUduO2jAQzaes%2FMxCbtyM%2BkBLi7ZtFrplQUupLCceiEWII9vAAuXfO04qNQ9n7DNzJjPHKfBMld4QukMehGEa9%2BIggAHv9kSAZJhGme%2F7gZflXJae0jteysxLG9WNNAdmLxUQSozl2pIWqQp%2BsfLgqKCL95MUoNiJF1KwrdTGsq3mdRqTXDBzMRYOhN6ItqkL2MBulT4wTKIm5yYntDwWRYuYLIdaqioosZyFLMQuWwDBjrrARG5tRTedTedozo%2BpFI%2BmUva9zYXRJ93GFTYdZGsQoDedOu2mrCShv8hyPn6a4LWO7OtPPCbzGPHL9yXi6vPHBMN4%2FKmm6pDMI4fxGHE2dfgy%2B%2FaKYbFE%2FW8c%2BlhVSlvT7EOo1UdokayQUFqmwajihOOfNa8q0IbQLS%2FM%2FwKD9hHq31tEcMtxw0UODwvNBTxMwOzd6KiSqnR%2Bt32ChQa4znJmKshqP7nz29a9b0TASWbgTvBuXagdYA3NcIZ%2F7xlgo4MSgKaGLaJQG97x8zz8ie9x2qc3Q3uUVAofviAjSYOwH8UjQyNK5IE7Jor7fd9RWLcrVNrU%2BUj0KcnUsbT64pgwjBqdaHSDnt%2BINOzcZkj1Q9cnRpm0tWbQHY7uXhBFw0H8J5m%2BxevpUzeZJvHbYh%2FPFrswWbxek0kSrFc%2FzutVEj1fX4rn6%2F7DX4pm7ss%3D&_b=eNrFjsFKw0AQQP2WOeews7uzuwl4U0tDuyJEpCEg290saUzaQ%2BvBxvy7ISoIeunJyzA85vGGXdnH1erHGAClhmwA%2F3o8Hfrn4E4OMhgqQMaYVhVk86orSL4YfbIKRki%2BtcYdm0lD71Qt0KsQnOZcpDL1WkTSyLYhRT4J8TAp06lv3H5fdzAmwLn5jw9C7eY8MXFJXnA9M%2Flnn4eoCEmQYalRWx4J0bgo0Rsiqfyv%2Fvhe3uQ7e34Q90XXbfr12bYvb5unvC0XeW%2BLu50t1qxsb4UtltcfJJF%2BcQ%3D%3D&beacon_type=start&aid=202dfc56-a1bc-11e8-a26d-14bc99770001&syn%5Btiming%5D=%24TIMING_DATA",
+            "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstkf_wUTfQl2Gb34AnXb9He_p578ddaLm8_Wbhy9DJ7NXsO7nhOPIiGmexlGR_bzD3Y8mcGzhzpacX8-tv4dMV_8lcorfkL-pu0C8XK_Ds4tcgrCSmTIJAAjta8qS1dHBq-SvSbappk7C5USWrf10uu7fGXGtRpyjSfXHhyymocbgnUGNEBBoZIsBB7ZdfudvMeNl0JSWAu-BiudbuGQaM5Qqx-dMdNxTKvBjOq94LoVA&sai=AMfl-YR1RqMmi_NKvFtYzcciDnL9u6wp-TxtfTRekYKYZlb7bRZK6II_PhAVwge9CDMDDRW9mOAL0HACIzGHKkqmyc4FGX5MAJ9gNjnur8ep&sig=Cg0ArKJSzJPiRfQA4Q87EAE&adurl=",
+            "https://rp.gwallet.com/r1/cm/p115",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAD9K4zLcfIEpA_faXplJep8ouiumlUFZ7IA7QKykSzZvOEJrVQmlNosc_lNu0AbsdNswb4Mf2YhrhNFJx-ZGyQbQiMJW2UeT8N5zZvYFim83oFfx9_s4ikw7hQ-SU3gf7tZsyqpSdWAEdWCDoLYoXP9P3P3wnGKFdg3nhf8Cj6zJVnblVLga4KYFhyTW5fnXxvTEx1-xpOOTeuQ9YYRCYfHCbMGRawLBwrdOTM_afiaOsXNPH_sZA1-1Y_FicL_WOt4Zp3AZ8B3ezj09v7ZaCffhc0s9BnEU8TUY9VdSxnAnockmmDRwxumVI6ULCrlrw6gHfM1_ZJhC5ntXp-W847dS9rWYGcd-Q8zylZoBbXoBsD-XMZ9kq-oAaNNakU7Nb61roYamgRKBkbBzJn8rYDAfRv3nyJ1QEHwgPLtpx7CEA6kaRfMjtoboHCh-pG-pQeIuRBu_A&event=monitoring",
+            "https://spotx-match.dotomi.com/match/bounce/current?networkId=80426&version=1",
+            "https://sync.search.spotxchange.com/audience_sync/9?spotx_push=1&spotx_audience_id=202dfc56-a1bc-11e8-a26d-14bc99770001&redir=https%3A%2F%2Fbeacon.krxd.net%2Fusermatch.gif%3Fpartner%3Dspotxchange%26partner_uid%3D202dfc56-a1bc-11e8-a26d-14bc99770001",
+            "https://dts.innovid.com/placement/1ftup5/uuid?cb=acf5675e-fe6b-844d-8c1b-71f765ddfc30",
+            "https://ad.doubleclick.net/ddm/trackimp/N5767.284566THETRADEDESK/B21381943.224956650;dc_trk_aid=422935932;dc_trk_cid=103507567;u=70f420e0-4c02-4b93-980c-d2c7acd38fac;cre=qphxakpx;adg=redzh43;ord=1536520487821;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?",
+            "https://insight.adsrvr.org/enduser/video/?ve=start&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0&ast=[ASSETURI]",
+            "https://cm.adgrx.com/bridge?AG_PID=spotx&AG_SETCOOKIE",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=vast_creativeview&ad_mt=[AD_MT]",
+            "https://s.innovid.com/1x1.gif?project_hash=1hb2fi&client_id=2780&video_id=319362&channel_id=949448&publisher_id=1271&placement_tag_id=0&project_state=2&r=1536520487821&placement_hash=1ftup5&action=play",
+            "http://dsp.adfarm1.adition.com/cookie/?ssp=14",
+            "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnapi29032&am=52&ep=1&at=view&rt=banner&st=image&ca=cmp1156079&cr=319362&pc=963110&ce=1271&cy=2&r=1536520487821",
+            "https://usersync.videoamp.com/usersync/spotx?USER_ID=202dfc56-a1bc-11e8-a26d-14bc99770001"
+          ],
+          "unmuted": [
+            "https://insight.adsrvr.org/enduser/video/?ve=unmute&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAD64OCB-5LSKhHqvqo5PIk2RVKZEVWNTlbY6vUgm3FxVibZG_k-NOmjYOZlcdV7dxg7E40Q8IEiN7go7DmyFu5gGZOvDxZrc2lQfRJEO0F_EGPvwIdYYDXW1tnkYm2SGRL86FqOg4hzy-JnSCL60nhbZapAu3OCCzmSSS-2-y6XfVelI8J0PgOtQxJUSaze3XQVLe8ouPQBSZ8E9rtUj6Q4IZq4u1hIX2KG4ib-c1YVlefnIit6ECxjaGFkzSe96VwUU5tkamhKa4dNlUdP7yfQDrvArZG1NqTiSop6-EOh9ZF1LWe5m8AX4APkG9yCQRPbu3eS8S27Bu-ENdvsWwJR5s0k8-k9MtUHLClLYobG_owmMdc6sfezwbKjZPJUucBCQDrRBDqeqAZ09kB1tdM-CKiB3WXf5YYanYooxS54U9w-3P1AtwItryPrnfGfGj6HjNctMRA&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=adunmute&ad_mt=[AD_MT]"
+          ],
+          "ended": [
+            "https://s.innovid.com/1x1.gif?project_hash=1hb2fi&client_id=2780&video_id=319362&channel_id=949448&publisher_id=1271&placement_tag_id=0&project_state=2&r=1536520487821&placement_hash=1ftup5&action=vpoint&event_id=percent&event_value=100",
+            "https://sb.scorecardresearch.com/p?c1=2&c2=6272977&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=1536520488122763&ns_st_ec=2&ns_st_cn=1&ns_st_ev=end&ns_st_ct=va&ns_st_cl=0&ns_st_pt=0&c3=150795&c4=1c3e6.79d21.91d6&c6=7028&ns_ts=1536520488122763",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=videoplaytime100&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADNF03m4qkHwipGtC18gpAiRTCQGpTgvjN7j4lcmCu8pGSfPJCrz9xZxq7Tu9X9yLjvqgd-s5KSFLu-TW_5_kWBK9inWTr2iBU36OUqv84TEDZzRqoVAnjogz4kXaKlNyDmvQYn3zc-uhcXYdLQpEiYcfk3xgeP3XBpl8qdHX2fD49c4E8PDULbxpSVgwW3Ceu8UqRgb9-CnOQR9kIoG6HuqKrUvCrPsqcVkIoo73cHA7ReHOrnEGHNhIaLCmdnn6gT74EozKVoAnIgib1KfBSB8BYTzZ_qP-Pifu7JUiYmeXY0rZcmEwGWkaWV_KVw8GNNTnNsvH-NKBZbJmZFW8vxvBFVtX2kXD5pH8Pb1YUsEWH2orSg2zDsF1MRMtJQHw73wYkzacg-fuvrl7Az5JdQwD7gs-ZfkNVD6k0Aqt5f0vSbfgRuHzcxqVsyn5huJiAn9knA&event=monitoring",
+            "https://event.spotxchange.com/vast/complete?_x=WzE1MzY1MjA0ODcsIjllMGM2MDc1YjQ2NDExZThhNTZkMTllNTJiM2MwMDAxIiwiMTUwNzk1IiwiMWMzZTYuNzlkMjEuOTFkNiIsIjcwMjgiLCIxYzNlNi43OWQyMS45MWQ2IiwicXBoeGFrcHgiXSZzZXRlYz1OV1ZpWW1KaU4yRmxORGt6T1RBM01EUXpabVpsTWpFM1pEQmtaV1ZrTXpFPQ~~",
+            "https://insight.adsrvr.org/enduser/video/?ve=complete&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0",
+            "https://search.spotxchange.com/beacon?_a=150795&_p=1c3e6.79d21.91d6&_z=1&_m=eNpFizsLwkAQhPcXye7d7SZXWASsQi4WXpRNZx5FgqmV4G9Xzwc4AwPDN%2BM2iABAbIUNujwDP2IvmHHnxBGN%2BZllID%2By6WyPiJS2mHmG5gDvI7HkAo%2BPoG6q6hsEzyQQhzcrmOof%2FXjyvT2pCXOB7VxO%2B91wUXOcw1pcdQmsSz3VUVeNajWG7QuqUS%2Fw&_l=eNptj09PwkAQxeez7Nk0s3%2B6tCTcDARDIaC1qZdm2R0FWbHBNliR7%2B6SXghxMvMOv%2FcObzhwiMNxCIvArSQdDVIneJRypyF%2FDNSR8cE%2BMcmGJ7beOjZkGKFE5OyO1ab7bJseiURgqgL8qml%2FE2vXfmsr%2BrYbs3%2Bj6pWo9zVisG17MA256sMcdtTU3lj6JxuGnc8wz2ezXi7FIVTUQkgFQuGg55zHOtFXQbx8J2WaKPgtf2yX3U%2FjxWSpymK1WTyNdy%2FFs8%2FEgy%2BLvJtPlsdMjN%2FLYjr6AyvQSn8%3D&_t=eNpFUV1v2jAUzU%2Bp%2FEwhCaEqkfbAxlp1I5R2wARjshz70piZ2LJNCmX777sOnZaHc67P%2FfD1SQmM6zoawmDIkjQts5ssSeCWDW5EgmJa9nkcx0nEKybrSNsXVkselZeuM7kE1J8MkJxwvTcKPJAOMYqdvNwHNRnguZECNG2YkoJupXWebi1r05hkgrqT87An%2BZlYXwbCAX6r7Z5iEnsq5iqS1welOsTxCtpWbaDGcprSFKdsAQQ9WIWJynuTb3qb3sG9XpdSXDuj%2FbHLhLON7eIrNj1UWxBgN702HbY0kuQ%2FyHI2ehjjsWX65RuGxSxDvJssEb9%2F%2FlggjUafWqmlYtYPmI0QH%2B8DPj9%2BXSDNl9j%2FE5c%2BGKOtd5f3kNzbA3QIVxJqTy04rRpc%2F9UyY8A6km%2BZcv8LHNpH8vhPhwjmGb5wXsHV3DIBV2Nwv8Lq2CV1HfzuxgQLHTDLK%2BoM8NZPFvz27ewzEdBIDiGCow%2FUOkAvMsUd3n9pMBxn7bUA9c9%2B7d51%2FKIIb4uj6WIyiZJ%2Bf3ib%2FZ6%2BPcsifcrW94vjdK526%2FGqX6R3u%2BluNVila1mMX7Lpjp9Wbw8f%2FgL1Ps9R&_b=eNrFjk1LxDAQhv0tc%2B4hk2SStOBF8KBssyjVZaUg2aTZ0u7HYVcWt%2Fa%2FG6qCoBdPXmaGl3l4XrywD7PZtzEASg3FAP7lcNxvn4M7OihgqAEZY1rVUEynriH7zOgjq2GE7Atr3aFNGHqnGoFeheA05yKXudcikka2CjnyBMR9QtKrb91u12xgzIBz8x8NQuMmPTHxF73gesrkr34eoiIkQYblRq14JETjokRviKTyP%2FzjW9n1J7u4PtvuvrXdXdpXfVmtT0v%2B2M8X5etTdbu157VYVjeX7zOpfyk%3D&beacon_type=complete"
+          ],
+          "midpoint": [
+            "https://insight.adsrvr.org/enduser/video/?ve=midpoint&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAb-dujhwjoJbZ26fgrp9EvRQHBRNz1WCZ16urNvUT05fnqO5iQWPCs3rBcojJrMwVp2Zjq81OovxRfdCzti6HHG-BsCm4KxuPB17FdQ4QhQBjsxVmo7aRRwZ6LbkjCsQNaB0P5n7s6Htts5L94uILTqFU-liZmmA-v5IY2kIu9u9Y8aCf1eG1EyQ6WKh8F9sHBgm07MJYsgrR7ztkUJ7HjvoEM3KLkdwtWvozZRicUBWwEBJxD6O5TR2F6icYQTPmngkFGrHwewARXs6IIay9jOSYVdM6gNvNGUNhraT2QKHM6Ue_9gdmP5fwiZ4302ZseAPtSoPx84CLKSfTb_O9BLS5gw-RAFLLdv0EWBdBz0IOZrEMAcRWsFrj4QVj-1-VbpUrciM47ZfEeAHXkAsQE1Wlx2K5ResKuFuxl_kBaq0UBcVChoAtX1jaJ7grKTASNI_Qb80aS&event=monitoring",
+            "https://search.spotxchange.com/beacon?_a=150795&_p=1c3e6.79d21.91d6&_z=1&_m=eNpFizsLwkAQhPcXye7d7SZXWASsQi4WXpRNZx5FgqmV4G9Xzwc4AwPDN%2BM2iABAbIUNujwDP2IvmHHnxBGN%2BZllID%2By6WyPiJS2mHmG5gDvI7HkAo%2BPoG6q6hsEzyQQhzcrmOof%2FXjyvT2pCXOB7VxO%2B91wUXOcw1pcdQmsSz3VUVeNajWG7QuqUS%2Fw&_l=eNptj09PwkAQxeez7Nk0s3%2B6tCTcDARDIaC1qZdm2R0FWbHBNliR7%2B6SXghxMvMOv%2FcObzhwiMNxCIvArSQdDVIneJRypyF%2FDNSR8cE%2BMcmGJ7beOjZkGKFE5OyO1ab7bJseiURgqgL8qml%2FE2vXfmsr%2BrYbs3%2Bj6pWo9zVisG17MA256sMcdtTU3lj6JxuGnc8wz2ezXi7FIVTUQkgFQuGg55zHOtFXQbx8J2WaKPgtf2yX3U%2FjxWSpymK1WTyNdy%2FFs8%2FEgy%2BLvJtPlsdMjN%2FLYjr6AyvQSn8%3D&_t=eNpFUduO2jAQzaes%2FMxCLrBaIvWBlm5FS7JoC6xoqSzHHjaGEFu2w7X9947DVs3DOeMzF49PCmBc1cEQBkMWxXHRf%2BhHETyywYOIUIyLhIdhGAW8ZLIOlHljteRBceu6kltA3VkDSYkB3hgj6zfSIbpiZyf3Xo4GeD5IAYoeWCUF3UhjHd0Y1qYxyQS1Z%2BtgT9IrMa7whAPcRpk9xST2lMyWJK2bquoQy0toW5WGGstpTGOcsgEQtDEVJkrndLrurXuNPd4XUtxbrdypy4Q1B9PFZ6x7qLYgwKx7bdpvqSVJf5LlbDQZ47Fl%2BvU7htmsj%2Fg0XSK%2Bfv6YIY1Gn1qppWyWeOyPEJ%2B%2FeHx5%2FrZAmi%2Bx%2Fxcu3WitjLO395DUmQY6hFcSakcNWFUdcP2jYVqDsSTdsMr%2BL7BoH0nDPx0imGP4wnkJd3PDBNyNwe786tglVe397oYECy0ww0tqNfDWT%2Bb9du3sKxFwkBx8BCfnqXWA3mSKO7z%2FU284ztorAdU%2F%2B5V91%2FELArwtDPLFdBpESTJ87P%2FO5k%2FVj%2F0kyl8nx2y7SLLtLlltJ3E23iX5ZXXK5%2Fkuv0wuqwv%2F8BcYU9BC&_b=eNozZvAL9fFBI2r8srJN%2FENcjf1cnHIjQ6Jyo3J9q6LC%2FbJ9XVwrfKu8cn1dQg0ic%2F2AMNQWAHwnFGs%3D&beacon_type=recurring&view_percent=50",
+            "https://event.spotxchange.com/vast/50?_x=WzE1MzY1MjA0ODcsIjllMGM2MDc1YjQ2NDExZThhNTZkMTllNTJiM2MwMDAxIiwiMTUwNzk1IiwiMWMzZTYuNzlkMjEuOTFkNiIsIjcwMjgiLCIxYzNlNi43OWQyMS45MWQ2IiwicXBoeGFrcHgiXSZzZXRlYz1OV1ZpWW1KaU4yRmxORGt6T1RBM01EUXpabVpsTWpFM1pEQmtaV1ZrTXpFPQ~~",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=videoplaytime50&ad_mt=[AD_MT]",
+            "https://s.innovid.com/1x1.gif?project_hash=1hb2fi&client_id=2780&video_id=319362&channel_id=949448&publisher_id=1271&placement_tag_id=0&project_state=2&r=1536520487821&placement_hash=1ftup5&action=vpoint&event_id=percent&event_value=50"
+          ],
+          "resumed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAB864CaGxOmPQIecUu1GAc0oHB3oRyQ5_truDat7RozF-xSdXIE14mpWwAx7qT1KnfVHCO9yfZmPw4A23bidgU0pVS3Kymw1UJJ27FLg5GauuzXBtuvXzxIKzbf7NF42_EWmUeqYHARy-j8uszcouaEjtLjv9HO_OTzz_hiRFkdj_dufGZC-8SYFPZiIq9jgdM9D4x7Xcghee60WMyS5ZEO5oX4ewvt7OR1AL9vN0XbXAoNN9-ajAm3Y2qlnstrQJcpuuZ1pxvCMxdnniZDYPTa6cUApjCZutKVSd6hGwrDW-mz5fa_2lYaGvMwp08cffM_ZcVt6kgoqgsSrcSOEY3CN4-rcha5dyJ-_V9PtNHsUJ4-Ry0aSJDa5b6kCBhWJBOhY2VyTop1kOzziBtTo0Z_VABOevlYYXF4ZT-eZn80y69lrofWPCSw5BupfTF6x-nHBC-TYMg&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=adresume&ad_mt=[AD_MT]",
+            "https://insight.adsrvr.org/enduser/video/?ve=resume&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0"
+          ],
+          "muted": [
+            "https://insight.adsrvr.org/enduser/video/?ve=mute&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=admute&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAo8368UR4iOtUy4iwIu0EdEVn7vidnlhCF3mmw_6s3l-gcztybA-bR9QEViOAXodNqA9jjpE8pyI-A4dfv8H6qLfI0POVb5QGMm-OAjIwhzGfIADm4PdTCaFFAQIT-QuC8koRpZ-fBxci9nz6OjK-U1qOskdusexuIPX4eVLllZxd85z-ogqHzBpoDPSuqmuxc9Xa8tVaZbKeuZ2bWyoBE2yv_k8O_BfbaeqiK8Hj4PhgyiSC_TrxixosMCm9sQkDFMeyk4QvZtcDYvR5LAsRnZt3UbQ1t3ClQ4DdGNj64bfAW2ioY_8G-6PdiMffB599z_0wJIg7up2z46A3DPFQe5nvHcXXFAyXEr-cgpcQIuhuQSZiSB5R2VQxAE6pWJMi7qJQHINluIObR79KD15ShCXhDV84EVcGHxrSpzvJLDWFdbKEpF_8sZ8elUUfpbLxvNnsp&event=monitoring"
+          ],
+          "errored": [
+            "https://search.spotxchange.com/exception?_a=150795&_p=1c3e6.79d21.91d6&_z=1&_m=eNpFj9tKw0AQhtdXyaWY7cyesil4J0qliYgtYm%2FC7mbbpiVJaVp6UJ%2B9bqzgDAzMP%2F%2FMxwgKQAhByZVkIHRCUg9OQSKtUALRayNViamXzHIHABi8kKSSTN9IwijqlCpBmUCy3O023XAw6DbtrpqfqGtr8hntO78tFvuqjIaR08DnWkuLjPenrbcenTc8oB9DRHdXe9UVjT%2BEhSC4tl1Xvijb2lRNkG5p583WLWmPObqlaRa%2BRwWr2ZeVb5wvfmEMWDl3UsUGrYt7XGyYKmMU1qVpkvS%2FRN8EUSqtyA3Jp%2BPxtSC5hCBKwJErCO3%2F6G8e8itbZTx7GEF%2BztjsfXSYPT3X2erjNKtH53wy5fl5HbRX8TLJ7n8AZMNlYA%3D%3D&_l=eNptTl1rg0AQ3N9yz0Xuy1MDfTMESqKUYFt8kfNubawmilFqm%2Ba%2F94ovJe0uOywzw%2B4wYOC7YfADRqDygshy5kXMqr9EtgcKFnXr3BciyOpCytqSFaEeFZQyckd6%2FdFN40LxkNNIOvLc4%2BnGNpVtbQqczUGfXrGoEBddUepkMw16RFsc9dDg2Lfa4D9eV%2BR6hSTbbhdwsfZ9N74sRji%2F11WFg2e6IyhTGSVLLU2puFVIbVVZ7qPAUHFuSghcXHCrkMAlDZaDjPkqVL8%2BUNdMiCiU8JV8NvOOPxyS%2BKlN4kzmb49zHq%2F9dOO4Td6kz5lI47XYxdn9N%2BOkYM0%3D&_t=eNpFUdty2jAQ9adk9EzAF8gEz%2FSBlpSB4sCkXAZKRyOsJVYqWxpJ3Jt%2Fz8pJUz%2BcI529aPcYTjloJ1QVdKHTZVEcb9t37SiCe9a54xGK8TbJwzCMgrxgogqUeWaVyAP4LLySLbBcVdSdNZCUfEZIg2jJzk6UXo46eD8IDooemBSc7oSxju4Mq8MYZJzas3VQkvRKjNt6wgZup0xJMYg1BbMFSau9lA1i8wLqUqWhwnQa0xi77AA43RuJgcI5nW5am9beHm%2B3gt9ardypybg1B9PETTYtVGvgYDatOuyn1IKkv8hi2hv28VozHf3EYzZtI34fLxCXD18zpF7vWy3VlE0Tj%2B0e4mTg8WnyY440W2D9bxx6r7Uyzr7vQ1Jn9tAguRRQOWrAKnnA8Y%2BGaQ3GknTHpP2fYNE%2BkoavDcKZY7jhrICbmWEcbvpg%2F%2FjRscpbj343Q4KJFpjJC2o15LWfzPvt6t5XwuEgcvAnODlPtQP0XaY4w8c%2F9YZjr1JxkP%2FsV%2FZDxy8I8LUweJyPx0GUJN379t%2FJcn5eLR%2Flur9%2ByS6jl2ywOmaDebIuh5fs8hytymG8HozkpP%2Fw5Q0P7tLz&_b=eNozZfAL9fFBI2r8QzxNolwiK%2FxDkkF0VZS7W5ZfladJZJavkV94VK6%2Fi6exX4hTpr97qC0AcfcToA%3D%3D&beacon_type=exception&exception%5Bid%5D=%24EXCEPTION_ID&exception%5Bdata%5D=%24EXCEPTION_DATA&exception%5Btrace%5D=%24EXCEPTION_TRACE&syn%5Btiming%5D=%24TIMING_DATA",
+            "https://adeventtracker.spotify.com/monitoring?pload=AACp9jH59k1Q-gnNCb66KxHvmEGGmDYoquN1yJb5iYZ52PyKRKpSXf3zAsOgTPu0UkkpczpftL1N6P4pz80RfcTE0WzOYR0RWiqySgknSChk2ghQj0G9AuLPUJpI5ln2O-xObYgGY30jloMN51SDNnZYnYuLtKI7XnUrBWb1On7UG6GqGuogVcb7sdNpAV8WKSQwWLNHjAVoy7jPhJfaWWP72LlU2tZogNO4IltprhRt-2c-Vx63K-Sa58HbbSDwyhr7LtkfR2Ff6Q9tUWFHSP1gNK2TQjSamgc6cZxgLYOcLg9PprJKK2-UgZhDa9KdcqC2q_IkbESmbUGBmAu65tlk94cg8xNe1Uv9cEI44Z_9Fy7ncQvNet9jsM6GWZSIzo3eXVigEE0spmL2jfz1oYrX7i41BfzU9sAPd_3ERDl4n5yY981osYtruKK3hvnAc8rSLiSoin4&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=videoplayfailed"
+          ],
+          "third_quartile": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAB9ITXTWJiS_dwVYNMrxtkLLyoS5ctNHQZnl2BuG_kn2xSImyegCMq_6z4v45507cD0FJnX2OafPn7apApABHDNc_KcB4nHTv_8t383_TrjdqFVa-TFrKNyKMJVU1Yos6dXPsoMD8hJPE1LYeBimZJtmXIszQhmClSYG3RYvi-WJNTOPJHSYVlowJKlVaSn3NnYnNQS1oozTlraW7Km-XjBXQMZNFqmmZ_j86N5LTq-sPbqy52bdIBzqCbSwYJIEgCb4T0qF2EF-YMnGWx8f6_hJ8bfurtahR8NvYyNB28Y4iWkfBxGIhf30jEQo_ffLRPmpwBuZS0LCtfzL5pkQWV69H8cnW3CFR2_tJs5si9ATHZmpkysbmcwZGgK4AHJi6-D7EP3DkGUDQ5GF9Y-C7vTJwETtQxP6XwNZl-FzjXNkQ6prg_RBUgHoGCdG1SUoGkdLF6DKmnggq5EA0R0&event=monitoring",
+            "https://event.spotxchange.com/vast/75?_x=WzE1MzY1MjA0ODcsIjllMGM2MDc1YjQ2NDExZThhNTZkMTllNTJiM2MwMDAxIiwiMTUwNzk1IiwiMWMzZTYuNzlkMjEuOTFkNiIsIjcwMjgiLCIxYzNlNi43OWQyMS45MWQ2IiwicXBoeGFrcHgiXSZzZXRlYz1OV1ZpWW1KaU4yRmxORGt6T1RBM01EUXpabVpsTWpFM1pEQmtaV1ZrTXpFPQ~~",
+            "https://search.spotxchange.com/beacon?_a=150795&_p=1c3e6.79d21.91d6&_z=1&_m=eNpFizsLwkAQhPcXye7d7SZXWASsQi4WXpRNZx5FgqmV4G9Xzwc4AwPDN%2BM2iABAbIUNujwDP2IvmHHnxBGN%2BZllID%2By6WyPiJS2mHmG5gDvI7HkAo%2BPoG6q6hsEzyQQhzcrmOof%2FXjyvT2pCXOB7VxO%2B91wUXOcw1pcdQmsSz3VUVeNajWG7QuqUS%2Fw&_l=eNptj09PwkAQxeez7Nk0s3%2B6tCTcDARDIaC1qZdm2R0FWbHBNliR7%2B6SXghxMvMOv%2FcObzhwiMNxCIvArSQdDVIneJRypyF%2FDNSR8cE%2BMcmGJ7beOjZkGKFE5OyO1ab7bJseiURgqgL8qml%2FE2vXfmsr%2BrYbs3%2Bj6pWo9zVisG17MA256sMcdtTU3lj6JxuGnc8wz2ezXi7FIVTUQkgFQuGg55zHOtFXQbx8J2WaKPgtf2yX3U%2FjxWSpymK1WTyNdy%2FFs8%2FEgy%2BLvJtPlsdMjN%2FLYjr6AyvQSn8%3D&_t=eNpFUduO2jAQzaes%2FMxCLrBaIvWBlm5FS7JoC6xoqSzHHjaGEFu2w7X9947DVs3DOeMzF49PCmBc1cEQBkMWxXHRf%2BhHETyywYOIUIyLhIdhGAW8ZLIOlHljteRBceu6kltA3VkDSYkB3hgj6zfSIbpiZyf3Xo4GeD5IAYoeWCUF3UhjHd0Y1qYxyQS1Z%2BtgT9IrMa7whAPcRpk9xST2lMyWJK2bquoQy0toW5WGGstpTGOcsgEQtDEVJkrndLrurXuNPd4XUtxbrdypy4Q1B9PFZ6x7qLYgwKx7bdpvqSVJf5LlbDQZ47Fl%2BvU7htmsj%2Fg0XSK%2Bfv6YIY1Gn1qppWyWeOyPEJ%2B%2FeHx5%2FrZAmi%2Bx%2Fxcu3WitjLO395DUmQY6hFcSakcNWFUdcP2jYVqDsSTdsMr%2BL7BoH0nDPx0imGP4wnkJd3PDBNyNwe786tglVe397oYECy0ww0tqNfDWT%2Bb9du3sKxFwkBx8BCfnqXWA3mSKO7z%2FU284ztorAdU%2F%2B5V91%2FELArwtDPLFdBpESTJ87P%2FO5k%2FVj%2F0kyl8nx2y7SLLtLlltJ3E23iX5ZXXK5%2Fkuv0wuqwv%2F8BcYU9BC&_b=eNozYfAL9fFBI2r8w12NI3N9TfyyHE39QzKyorIcDfxcko19qxxNfF2CsiOznDL9XPyyfatCbQFnrxOe&beacon_type=recurring&view_percent=75",
+            "https://insight.adsrvr.org/enduser/video/?ve=thirdQuartile&imp=70f420e0-4c02-4b93-980c-d2c7acd38fac&ag=redzh43&crid=qphxakpx&cf=469334&fq=0&td_s=spotify.com&rcats=&mcat=&mste=spotify.com&mfld=4&mssi=vudboun2hgrg&mfsi=bfvemvxxqm&sv=spotx&uhow=15&agsa=&rgco=United%20States&rgre=Florida&rgme=534&rgci=Orlando&rgz=32810&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=115686&rlangs=01&mlang=&did=1c3e6.79d21.91d6&rcxt=Other&tmpc=30.78&vrtd=&osi=&osv=&daid=&dnr=0&vpb=PreRoll&svsc=AllowEither&dur=&crrelr=&npt=&svscid=150795&dvps=Large&mk=Apple&mdl=Chrome%20-%20OS%20X&atst=1&sfe=dccf127&vp=0",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BJnw4J3GVW86jIM7cBvyjh_gK8-SnqEUAAAAQASC8rvkeOABYmdzn_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQvIOxiAGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=2FyDrkuRfWA&label=videoplaytime75&ad_mt=[AD_MT]",
+            "https://s.innovid.com/1x1.gif?project_hash=1hb2fi&client_id=2780&video_id=319362&channel_id=949448&publisher_id=1271&placement_tag_id=0&project_state=2&r=1536520487821&placement_hash=1ftup5&action=vpoint&event_id=percent&event_value=75"
+          ]
+        },
+        "metadata": {
+          "advertiser": "",
+          "videoPlaylistID": "",
+          "moat.enabled": "true",
+          "placementId": "157994892",
+          "dealId": "qphxakpx-1c3e6.79d21.91d6",
+          "lineitem_id": "qphxakpx-1c3e6.79d21.91d6",
+          "format": "video/webm",
+          "title": "Spotify",
+          "creative_id": "",
+          "advertiser_id": "69923172",
+          "require_focus": "true",
+          "domain": "spotify.com",
+          "siteId": "5465172",
+          "ad_system": "SpotXchange",
+          "fireImpressionOnStart": "true",
+          "order_id": "434167692",
+          "channelId": "85394"
+        },
+        "cover_art": [
+          { "media_file": "561b4b8f75fffe4e5ec05841db56e8a823a0bca9" },
+          {
+            "media_file": "https://d3rt1990lpmkn.cloudfront.net/unbranded/561b4b8f75fffe4e5ec05841db56e8a823a0bca9"
+          }
+        ],
+        "video": [
+          {
+            "width": 854,
+            "height": 480,
+            "mimetype": "video/webm",
+            "media_file": "http://aka.spotxcdn.com/t/6cfc64ba4cb62d6e0dffd25e3e8622cb-7028/%7B%22size%22%3A%22medium%22%2C%22format%22%3A%22webm%22%7D?_x=eNolzM0KgjAAAOB32T3nNs0f6FZ4mmEo4hgM2QaunJO28lC9e0Gn7%2Fa9gHePu9SgBFMIqy855NDvfBiDkZFZFvc0KpLOcmi1MiOHepFOacVhnAmUc4jSAqP9TyL%2BlUjznCQCFRmOSWTXBHzerOq2urrMtKrnup3m85FurD8R2g946JuEtbeYXhvMbHf4AjuJL8w%3D",
+            "duration_sec": 15
+          }
+        ],
+        "html": "",
+        "cleanup_timeout_ms": null,
+        "same_frame": null
+      },
+      {
+        "id": "0000000105c20f4e000000202df09015",
+        "dummy": false,
+        "clickthrough": "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvv6MI-SDao5w5CBLNL2Fbcnn1K130tLS-4oTyxWgHyebWv2qqHJEsakfge4L_jxHm5uwfXu8HSn3_CYutajydp8GMtbfWKn3urA-VWAa0pFfwrMluszQBn4f8EHSufc3rQ1FP-bTw22j6HqcB-lmPNo5PJwrgx4poi6ErNy2lNKo-IoYVh4CR66tssympqU8tA_KYUEpkNXUzn97SiYLaHWA1g_EQK3Icsf_L9HjDN&sai=AMfl-YRkqaW9k1VWgAGZYAyXHmY8lU0zG_7qxVRhNdwnPvF2vzQCXRZgvMzIcZAMnKAZsSumZ1KAI132zNV1NhEcYV7A28snr-YjKVE86Eyo&sig=Cg0ArKJSzBu1tfbVd17dEAE&urlfix=1&adurl=https%3A%2F%2Fwww.spotify.com%2Fpremium%3Futm_source%3DSpotify_premiumupsell%26utm_medium%3Dhouse_ads%26utm_campaign%3D2017q3_global_premiumupsell_evergreen_30dt_passback1-vto-desk%26utm_content%3D2099743395_passback_us_en_amer_VTO_skip1_Aug17.desk",
+        "tracking_events": {
+          "paused": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=adpause&ad_mt=[AD_MT]",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=adpause&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AABd8eCL9pt0aMWzb-n-8oTGQtEvrmpYfKlTbGXioJQrrrZNg9GjWUQOWdJ0SKagyL_1PSGSXNwbCnSG9AUqFyahxDsKuPSNC7P6sM07dAysXihpfD3unv9BCd7_qIIafJ5mJlr20qGxSb8epzcNqI5Ot2pE2GWIc1zwiD_l-K6hk8qNhoNEgCeFm1JnvWQELKVMXOWJswGJGb1y3fI3MIQiBkjzDTvFeBJ9eGTvO3HOufoWqtTuIFOjYCEgiMb83MyMTUNEOHromyP5SbumDiVkuPhRGYaVpC0g9JIL1W3AP03plVz2WfeUoceprwJByjxFMpO_8q0KtddAPdOpR_13E-AUQBWTtXsHcT5F6AMqGpCovQb2KqAraN7R7BOYIe-xSdDG&event=monitoring"
+          ],
+          "collapsed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AADqT1jn0Vjl8PBJuyy1UfBoWdv2ewHd_O-SzhnS5SF5LRsL1E1aIBgE_mxhSx2NGB9D3L2PleteVxqAoVkCd_4YRiZKf80ubjj7fGmgjRu14lPJRdcN6LsY6q0xwoVwanCtSK67mMbiQxfHwumyZEdwCIXFgxOor0arbGo2JcVxyJ-Th6QzK7NSieim46ZkxaaQ7dLSKszioJE3fE5RJ-GnkiHouKIkJB6OcbHw6vpO-jNcX4mON5jFK4f8iGOd5s8cG3GXexORYRIuVYimjNtY8UBZXoqzWcMn4L3z6UTJC-rD8ZzMP3e9hwws1R7_EC77R_Hnma1j8cHOsysBtka9OFxOXmrarRt0vTEa9oXlnLgS8GP6zdDA2H9V0zWrpW6siH9k38C5&event=monitoring"
+          ],
+          "moat": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AADQdT9DyCT_OfyHXey8dVal2Nf4bk5XLKH__maeJCPVPGOZ1IIhceHL7wea9MX2bnGdho9VXS51TcBCkWbMD5gUpnOyq_0UNc0ggyzyBO2fsIehzJ6Chz82fAKrpIYw-LAj31GfFjHeC_5338F4HMMC8pxR4ZoUyK5UoJ7jMTdamFXRvIJV6qVtWB-jgLUP2HIOfctgJHSjaI1ltjMRaPjQbTwK4K1ekegANZqR1tN_532kE0XVhzb0SVGj6qd0yBNKpRWY_JkZ4Kh9VEXsmf0StwieUWxiJN5SGmFVgDRdvB4ncRnVbr6r10uwfLu8g0dPCZ8aqEXm1noV-BpCE1I2t8b7NlStoQPyobvMFTYdzEMlP01XcUL9nQFTg56BfaPO9A&event=monitoring"
+          ],
+          "started": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=part2viewed&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADEF9evD9ulfbKVLuQPMkSCrCSIZE-0M3GQ3otCNGnbIubaw7y5GMlD5YBAuA60AzSmg9bpumkz8c4rYM7HxZ0wHIiyzV6_69oPYyVKrUGtkL6DCu21DgtPH6eY5Y2-BwabE_4kH-91jspaNlkQfa_fZGzgfl8sirgICML_VC_augKigIBhOKNA_MZoFuezzkcgVip1qWpWeJtPpaOP6gMiHILkKRHggmI10Cthw1yQp2qG6w5VRAf0z_Rp5c_4neJN-Fpmjo6NLRG-miRwDcwRlmdV8EAosQwWAVidJRtGv-thzI7wGGpSrU8Eboz0cUNkkMjYVL5oOTSGYR-5npiKsG2VTLbdTEzlOEhacNMMUMmNXR520XQqzYhFxp-S4xhmGYGjSw&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=part2viewed&ad_mt=[AD_MT]"
+          ],
+          "clicked": [
+            "https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjstKWuTNdIMHAvOe8EdanQSwGKNDRObZhxZ3rP6_J_5XGObT0xOmebMkcoFRVNDn4F78rBYn4LBdCztfKURjkLnuf9AH9mBBl3ubyiuboG8lYO76TZfVoBbNbZ3IuyOE8h5ZbZlXohkzPUkHd9DA0wU-zng3vtLqs8YJVJkQ4PRGrBXWXxbx2cd_xWjDQbZX-ZZV6GlsArnAzgt6W2qZk7rACiXsnJKZWBSU_4Mp_g&sai=AMfl-YRDumYjYsSFzKcYtkXcg-OBA4ZT2qXZs3a5yEjcgkAf4TshO0TDmuOQxDGxdDqZGFpWmuY2Wd7PmWZHKA9RmDmqRV7U3ZCtLvKTiC26&sig=Cg0ArKJSzGLxuSwHE2_UEAE&urlfix=1",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAWREnNzzhxyTDyGPQWKJDoGk66GkPcApLpf6WVN6mmFsuV7S08meq_Yt1qiPX4rT3CEDjNI3s1V_Atx29dStXAylSNI7th3xQph0uZMk9dxy7EUEAVmCKwZ4v2Hr0FhnQB9r-a1LFw0Nd9bWqxkeZllJO3_HxgtE1KSqEq-f_IPHxQ5qdoARFFRkBEMFSObOFZnOEoKqepWjXiDzfS7ppf8JnPfAaAo230adZElZhvWIaNxsXfyHtTqoSn0GDcoEZ1JordupEwklHB3fVaWnO2m6GHxamkc56xenXkERpk-MtRNKw64-DkVZF7G3D0uWZiFT1f-jWw4yvDnvom0XLaAjtgsPHb_P2zLcFQzz9597QQ9zpyLzLisson2F6nv4xPhdyXaQ&event=monitoring"
+          ],
+          "skipped": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAzCZhCOkS0G0M-dKpyb5gTMrivn7EHlhJgpVBIeg1m14lMwqeEGe90lS6Bb0xBJjs3T2jPF6k24FQtxH29hRbmzaRiwenBP71saJdz6WOcQvJMxJEgKn8fKSKFhhgJ1FgtD70PB9IrAt8n2ptiuigja_zQze9olGOhsU8Hxe0i8VMsojcg4ldKThXLMKnkvy9UegVPyq049OcCyMfl61QGnT_H5ojsE5SQN87LEvRARW4YfJQRuxC6EegXI2Zc4kwLqK-CjDF9WlogLqIw7wRr5V3vm26Qr4-e8m8mmGerKDwOPdI5zcVnnEMlXUkK1HT9UgpAUIbSsD5_Gi58TjXy9Qup2oeGybh17mzCeSqJE7cVMeF19s52ocpwFXPpCVs4lyz1hw&event=monitoring"
+          ],
+          "expanded": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=adfullscreen&ad_mt=[AD_MT]",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=adfullscreen&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AABkdtjECzGd8XNwc8zeygLNEjZfs7xBkuWBbCxWvkbQAU3U5jlp6psRUId_4Zb9kXd0tU8F8ndAamNWaIygpLbKtAU4hTcRmt9kU7ulNo9Q4_umcak-oATQTIsnUgN4L_UePLceLizQ1fcrg1tqhUogZ99kYIg_eysrrTOV_KsmY5ZZ84DwW4y2GEXCfjxR2TnLLqHoxKMJAWCcm5ogosfKqLr-hHZv2rxEqV0ixv1wQk-WMdc_-wUHlOdckuv7sQtXzrS64aGeMP3OwgRwqOIEPTkR0gDV8ryu7wXHpudB9uJLN7_5Ppbi5jk7gkeHaFhwBvyVGqxdtYbeiIMqwHPQNJl5tJ-9L39ZxYalIGAROMHHdyVHGsDEalnxWxsHYGYi1vvbKkU&event=monitoring"
+          ],
+          "first_quartile": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=videoplaytime25&ad_mt=[AD_MT]",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=videoplaytime25&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AACm9TXhHV1LjxySAC9EbeBvpLqdqHtpq6vy27acHSBFLVud8UVnOfwfY9d_LeDpjCQ_Kk5KuXP4a8FIuna2LDyZJ35Xed0Ha75j7ln7DXUTQZBZ2uEDXGM3kAZoZ0N_fPYnOB6gfCgg5JZ6hW38dFKAkKsdVls8BJLt41HDu2zDVHOyavBqa5VYgZLozTfc7NuR_GxRGqlGJy966EhZglGnC7zwz82RZgY3ksEY9-eNJ_EOuCXN6QwKsUp_PlynwnVqkmjB6hFnbjpUT4Ywmwoii37orJWBM7m2pt_r7JntamTiTNWN6SXISmLeeEU_vaJP8rtQmGpip0G13NiE3vFWcMG4VGmV1qxyGheeYlmWSbsNk3pvVoP5LcmdKicjhnTOXKINBN5OouFDoVw&event=monitoring"
+          ],
+          "viewed": [
+            "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssXxrFaC0ZDDFtftPciizteyFt7ap5fOZPli8ITcK1eSnlNSuuEen9QtxBicjS5nggcRuDqCoQd05NQZ43Tz7p3I15ZJjtHCU1dp5O77buoZGTa-BMWBzi9ppTG3YW2vAsetowfrtgTQtaAk3B5uGwDVOkegppJDfoK0uAHPGnoZq1yIl4ILO27iWTUZX3DWOOAgQmesGC8lrWRRBjqVg_EDMTnuYjitIf4xhv2W34eJ7x8J2uF8YsjNNYgLe08J0I&sai=AMfl-YS9Jfpd50ii8AyWUnREb4cnqQBo7ODY9A6ODsMSuUDAoVgyumPXtkHabc-EPsR5cqlVVZ70jvCeHQ6sremO_NweYQMW42lZSIZAjf4k&sig=Cg0ArKJSzDceC4E7ZTv9EAE&adurl=",
+            "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvCWtWJ7jDpjJGm2-LrSQw4cU6i3_VwrgB2dXVFvag7Swvw3H_DSS124NBD1P5qrCqN9ZPwZp80075ixZSpQ_0HHu4qgUq4O4x5S7N_VJMXToBZYvT781Yf5Fi8STsifpn6IPlEibPAm9I1hKx1zuhnHyP2yp6trOB-1aJJuURb60H8W6pb6ac6b7jMLeAx1_yBMmNNk3izeBF0HrtI7OPet98-T17f2zauV9MhUqTgaPNGhI2GKHndiXcunuCYaLFp8g&sai=AMfl-YQFivPUGGE0F7udgLR1hNUhI-WmRXterEqhTmAY0_VFAh3zNa6BjYdGhg-Y9fRgim_c6AapKnBCNdz2vvyLRPL5k9rbT4cho2s5u9-f&sig=Cg0ArKJSzMiPQcfrULYtEAE&adurl=",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=vast_creativeview&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAnGPq2xIBpoudbPEGQ3cjLEtlZ_FXfa2JnDKTdRrNb7EXMmN3YxkhjX9qnB_Lc3H8M862iEETKvsi-Hr8yE3ZG_zuiUE5sqHHQDCBww_mKbTxOALyhrR1PzzGdgB40DNoFruk_VXItvAhE0oAXwV7LWsvd_x-d6c7olYaZ7A_F1dO0Nb6QfywhOax35SYHg4cSZy5tn5dKHQpqOwxWarrjwYmKpzV1lNyVCsdpusnoHK8xWdHAfZS70k93dWhCegCC6LnLnkdUsOVYTyyCHj2ANhTdAYhWaOLCncafx6FuP6EymxxFneizsFoVsM_c-J01JdI_u5DIcEURrvbCtTQOUgzMKVpubKS_XTxKT-ldDniFyqNa4sc_7YXcidwbjWPbHkxE&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=vast_creativeview&ad_mt=[AD_MT]"
+          ],
+          "unmuted": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=adunmute&ad_mt=[AD_MT]",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=adunmute&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAD9A-J_oKKipW2de8_s_AC6pPa0-KnnLBXnaRrmf-KvMah08izRcQmlTFjRIMWRVPhjVK76omWZlqqBaUENLZXmil-cIQhon5km6Ms9wHAFSCAswsWU1f6kbvHcgKgHKHuqXTT6kwXf2DplsnJ7vI1W4REDlAhT1gc5ekTWyI_Zp7jyral3wOw_aIBrvkGNrt0Q4AVupUlv0o2ExGmi8u19aU6YniiIo6QcVeokX7NAc57aSz0Q587DZOZO5igpSliW_w9Vixq2vxt0nRuN5yO-gAh2-34Baglg8SkKdmW3Yut_bSoopzQ7BvIaedO39hQLwGLwl0oN1wqvN7hFzQ4oRfDicbj3vj0rRupMbPT7qtaC2EhFQHzTw4B_L_8FXfsech_adQ&event=monitoring"
+          ],
+          "ended": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAChV9zRGCqhtnq7skBQ2Mbf4m45kDMASTKMu6blwNkMQLsIfMMJ2TJwO2YVW020ufswHZ7Uwvj9rBPYx6A4Yo3ZQMLX45FkkYyi1DoapVICtpY_iELRIx0eBgQjYoU9ADEvkq1dYTEGXrceAplZcfchc7hRZKr8iUqeQ-zdLcwaDEXTVO6BnBhiHqKQyqTAKdBh8EJuLeE2hgRcaUzPWI98CklLVIwqrRyat7qmfiN2kVu8dRz5pqJrSHz958sVQ_WJ1iAWajRHbVcvzrg-wsqKXJsij2G4HCLeLFzi9BkVO0eB3_JaMdVaBMpXOHWrndR4sn7Xrk2vNLapNJKxRHnHKrFce-cKFm7ewq5LJhbqIklpe8dqq2_lDW6H5_MUbWXndiE&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=videoplaytime100&ad_mt=[AD_MT]",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=videoplaytime100&ad_mt=[AD_MT]"
+          ],
+          "midpoint": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=videoplaytime50&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AACrjLOQvYXQSXF3Z6yAqje9GUtnS_0OMq0fhOQUJbXUQOtvB2vNFGCxwpbMPfad1VGfQ8EtnzG64JrA4Slw0Y35IYG3Ru-tVylLOUFa3NX-XSkJRQiOjGf6Vr-FOOeGvsLepLIahysDKfgYnkVNaKjjN1pYokvXfM0iO_Lv5gZaka2XZBMvwQrsRiBfFuITXcxiFQhJJovTeSn0b_j5QyUiCXvDHqRC12QeAstS-2m2re6vSjYmlFkAKY-SqT4P6z5QUZqLAgH5ZrKjHG9m-wS8EXd1gLynXZByZG81mjrw932pFSD1eM3QmqwlSA3vWR8zTkyCi0lRuwmbjytPbHFpQnYqpk7vY0saay7iukPo1J0O3aSZz3VLZIEISsDNTlHeKefTKu8&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=videoplaytime50&ad_mt=[AD_MT]"
+          ],
+          "resumed": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=adresume&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAB3rJU3HiDsDb-EPlO5ysdeXVTlk220Lg2GgZcFW1h-ZJjvwzaOl39ykTsWqSEHQNc-v8eTg4gvblJoZa3AkzsX4nFLGYtrofZVtCA6QrpZlKI8XkVN3_5m1gFoZFaXWnmHcTdLenxx7ckvDM6FJQ39PzAPAtpzNDClfSneqOcWx7uPwrfBSuZOgSadDx2ur6iN4yC92aism5fmNWmgT2IpQgRFBk28oLMmkMWZka7OXKWZD54i6HMU7sO9XjMY_ErtXR0BaUU0Ojk-cJ6ZW0OI8ePV9Aa5SMffIsOkwwKZQK_NWUUZbXI-fju2dydtdEOPjPMPMPwmHQ_7oLFHOh_5pf3ncv74FpWCDgywA0axlogg0GxifntgOlWy3f_jPkYwrKSDmw&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=adresume&ad_mt=[AD_MT]"
+          ],
+          "muted": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=admute&ad_mt=[AD_MT]",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=admute&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAzolfcBpdnbs6f4634u3IMIF1jcadceit2FXvZNrF_rcasUheeiGn_iQOCtfUic3a6GZ_ZnEBriPScExNxCHLrxb01R1uQUua9myQzCy5s16oHn9cGFE_W67pSVsPlDwUREO34--1y-zR7BMfiypUSDshOxjpXDbKF7m5LN1jx3DT6Kdg4_8rJj4K0afkhcOGNOc9gloLz-SsZvu17X5dlrvbawP5NW_NZjxJ50ajU3nxW3QvIE7lgVAjKDyhH7VQR1f4ZOs8uZXgHel937dO5oxpRU1Dnd0qOCmsqQU8hSGOvQL1ActYyaaqUspp7qLVrowQ65A2NZJujxTZYTRu3RJufGhiL-r_BK9psI08DRr0LA5pOM0Zm6fbDTX2VUcGb40w&event=monitoring"
+          ],
+          "errored": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=videoplayfailed",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=videoplayfailed",
+            "https://adeventtracker.spotify.com/monitoring?pload=AABMPpArn-0vxE24hkPR3OOIrmn-xYzUj-Ho-kPxYgXE7RXn1g_7J-Pgu-XpZIGhnnlKFy0VYJTIlzeVgaHEN-de2eyKENrE-MeGCNheEDqWFcbx0sg2TKajT9_MTYkL3R6-WuV7KLvs-Ha8ZVT-Yj-1kCkA6Mw9LUCrdP4lzq2uPEKqdoTXoCpkRKzFEEGKVW1TSnu7hfXhWKTdelXYEN_C6ZS1NzTTrf5qZN9V081iLYqej-334PsBUnYJfN18LMeR5qAEcJfXeyU01ZH0B1DrHXh2_3jpB-Iy0pJAah_SJoXPm7JY36dnxXzW00lB23c0WoPBtiiw31WoRs_kGoh_9SuTk0SbrlsGlwFf2Z-VagXwszDRI7_SBFs0NxcZy7Az6KMezw&event=monitoring"
+          ],
+          "third_quartile": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABr4nK7hGphMAlrE0kOKWlFLf9Gjun4qV-AqWCY-U_s3aUndIQjtIcH60h7kBFXCTKJzy2VlZbWVsjkxPhSGIB66VxJTwvhABDeY0mC4LVKuGLnw8iM4aFnJx04Im_xEfEAk2bmP3jLTFogBUArVP_x8VEZ24VoGq4KsLdo_3IivrrEkuYoKJcYOwiQjbUaGlCFDOH3NbARGXBQGQ6R00jsNiwkZ3DuQt0ZxWrkGBuUXvDfYzjfzsDVlf8XeJQKFZOl9OiHdAc7TSzMAsTeeyIYDu-tPtL0STWCKTogJDkwjBLjJ-fbLNl_yxPxFVJcNjSiBvM9nD75zeXxk3tnBzhGd6xwG98lw1BfijFteUMSf_XJw8KTgXhXSpl_1NkUifCNisUQgq3lCGu4wqM&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BP_6kJ3GVW9CjIM7cBvyjh_gK-a6Ap0UAAAAQASC8rvkeOABYxrbe_oIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQ6cbz4hGQBgGgBiSoB5jOG9gHAOAHD9IIBwiAYRABGAM&sigh=z3s-LOcGkUc&label=videoplaytime75&ad_mt=[AD_MT]",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BsM06J3GVW-OrK8rLBYWmuZAIv6XzpEUAAAAQASC8rvkeOABYlaDC74IEYMm2uIfco9wQugELNjQweDM2MF94bWzIAQWpAg-ZKwAgYrM-wAIC4AIA6gIfLzY0NjUwNTIvcGFzc2JhY2svZGVza3RvcF92aWRlb_gChNIekAPgA5gD0AWoAwHQBJBO4AQB0gUGEM6eiK4QkAYBoAYjqAeYzhvYBwHgBw_SCAcIgGEQARgD&sigh=I_85fUC8L0Y&label=videoplaytime75&ad_mt=[AD_MT]"
+          ]
+        },
+        "metadata": {
+          "advertiser": "Spotify",
+          "moat.enabled": "false",
+          "placementId": "177256932",
+          "lineitem_id": "4391571278",
+          "format": "video/webm",
+          "title": "Spotify",
+          "creative_id": "138209693717",
+          "advertiser_id": "46211412",
+          "require_focus": "true",
+          "siteId": "5465172",
+          "ad_system": "GDFP",
+          "order_id": "2123009173"
+        },
+        "cover_art": [
+          { "media_file": "ba9e7f89892395a2476adec58c936c1d7eb561df" },
+          {
+            "media_file": "https://d3rt1990lpmkn.cloudfront.net/unbranded/ba9e7f89892395a2476adec58c936c1d7eb561df"
+          }
+        ],
+        "video": [
+          {
+            "width": 1280,
+            "height": 720,
+            "bitrate": 160,
+            "mimetype": "video/mp4",
+            "media_file": "https://creativeservice-production.scdn.co/video-placeholders/15.mp4",
+            "duration_sec": 15
+          },
+          {
+            "mimetype": "video/mp4",
+            "media_file": "369eb139b1684df09a03dbc748161a3a"
+          }
+        ],
+        "html": "",
+        "cleanup_timeout_ms": null,
+        "same_frame": null
+      },
+      {
+        "id": "0000000103cad8a7000000202e02c38f",
+        "dummy": false,
+        "clickthrough": "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvvrypQJbYYd9wCLX0qFPucGw2ksDoPVJOjRr1mi6I3Zjx1badpcuLkMmjPB7NGjPm6LlW_tMbvh83io3BheLDOU44KJ5SdfWZSKNnv299FqIOxatM4Qz_Tu9WXjq0qSji3LE0XP0YdOTeHffK_2wb7cIRWO9F5PyZh_2fAgsKXdLAuuVAiYBW2ntz1wkrFrcIzXDDjFQ3H-aWj0AlblIixF5e5NBwgjE-f9LWF7A&sai=AMfl-YTGiD_eayMI7bEJVWMYP40Dqqe4VR8oxZnnxo51YdSTTsU_uLtKCRqLecx3alFoCPKuhy3hZ7o4t96CAQDPfh_sSESGE1Cflr7X8agK&sig=Cg0ArKJSzJrdr2c3NyqeEAE&urlfix=1&adurl=https%3A%2F%2Fwww.spotify.com%2Fpremium%3Futm_source%3DSpotify_premiumupsell%26utm_medium%3Dhouse_ads%26utm_campaign%3D2017q3_global_premiumupsell_evergreen_30dt_filler-vto-desk%26utm_content%3D2103485475_fill_us_en_amer_VTO_adfree1_Aug17.desk",
+        "tracking_events": {
+          "paused": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=adpause&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AACb4ZZwytyjgJFTzodQlg9yPIEZaO8U_rPImCk_uqvccy78pKEUu1Twxgr5uqhgccR00huQ-5LlFBwcCqC0n6v_AiSpUsYfVWw8tcjlNYKSsaYVTDNN4nNH5_y0NR62jFUN97hBYdhIZEOdAGA_Rbn2Vr_BZT0FBos9tiv8-Rl0XPuewxx8vWQgiLQBAN-jQPa1eEPvbXufvWZyI_TbBvcgvDXyg9PELcEzwXLIj1V9tbrmRrhC3ql4jpaSjpfhcPguWIALwGa3atyUrDurNbVnQinrulAT3NJAAA815p0Oje45KIkRC_6cr4SNJmQnWKOd4CHxF3BT5EFexOn9&event=monitoring"
+          ],
+          "collapsed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAA05urLuJSbzJgqBydTXw2umVbowF1WNz_GTVSMwYG2m8eoa-NWemq4-X14phzHPNyrmQwW-idZ5-8ms0yblXQ_gN_imyv2efemUpG84RKMP3iaD_JOGTx7kj6bxBnBtDbNtjilGO433n-flq4CyyYMRYqebKbsJA8AFub0xH6MF1VN-rd00lFFNgFzpgtwi6dS4pA54NgkstSt4t_NY2RIN-lMb7zdtf60X0DMhbGNugq7j7dtonuUF-WGYcvq1zjSgCgZe6sExkParPQ1E0cfhtCFqqwhHez1yBbq7CI9yyrIj_rBsE2nMUZZ4iIOxFmltnqtTX1gZvG-Fk9BaA6P&event=monitoring"
+          ],
+          "moat": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AADiayQeJigOxsI1FZIwyzXiZZ93wUmnz4JUru10OSIZi_mGFk9T9SAKlhvJnQiggwt3cPhviYwMRVJiCxrpQ6_LW_k0poJjuqNDTAj2kbzI1Q5LM8khsiKguVS5Teba0XL-fJx1iROkhv9ud47Hnn4cd6rClmyJhKNPDzdoFyCYcW9WYNgk60oP68SzeQORvBb87vWxVNkXGSl0PLWDvBzE4YiBlhlKsOpPzLCjhFk-BKARbUQHmwqJLo9f9BfEJdl5kmUCgoCvEe4K1hfD70AlvTY8sF-BlTxIs45SlCvO0F812Ozl8tsZNXdl6simuwZe_SNAJsP8m-69SQ&event=monitoring"
+          ],
+          "started": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=part2viewed&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAjBLFOHolydwzt7u1zSpkhXIIXhvAhWF6F7b72JFJkK5VKhjhGtfVQYYD6nPPebqi3ts4eZ5tKVYxqzboC3876IM2YM8X4KAyvyahWjIcqhJOmo7cZ_EFUex0XKIDtkeMt5lUuBxnvT-x-555Jvq7OJ5cwwQ-eVsG9PODBDzSGJb4U5CnMyoF35GWVq47bpx2uo6DOrwSmi76ZwrFL6FAX0-3C6Yi_zvPNLJf7BuaMZPl-VhmqJapbBJei72zlo5AxrVghF39HpUZ7BeR_bYOCWmuc_9cnmPIKFgq0Aiki6A1-FWjSMSBiUCp5B29S_EdhQ6cS5315YV6ob0LAPg&event=monitoring"
+          ],
+          "clicked": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABEr2ZX0blw7eyYgnn7W0h5BbdDSM7KhjN_LXHftfntPRFRcYnxN4hkJWYPUlL2DhT8Ib0FCOlKV4q6nVqmZdHz2wV6jlxDHqXdcTE2HchoqJka1JpGmzHsigy7RGYJnlc9rskHCyx-UoeRaC1U67ogjM05s9LRigh08SSGPaBg8exRqMmUB5bXuj4T5DHplyDON2RnglefxDLNZTkoCquidAwd7Mg9bEcKChr9P1XYmtMlrWvzOPyIm1jlb-7xbREjr6R5v16bUT2et6m2epju8lqMdsgD5tqV1Tqs3Ry0cTRa_acBVF-rwdAuQ85OVAO3k0Hi3qqniDLuSWQNaw&event=monitoring"
+          ],
+          "skipped": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACooxbfRp-Tp-dGOOlzKdjfd19jU0t9cFdE7yJD9wD8TJQY5sCsWeaifgZAoh1y6Tnvpk1JbXOx-kGMw-GKRQ5M9Ey0V_q_bixo_4ZMkK2DSHqVXV0sqHiK1_S9v6wQTgtYxmlytVaGBysQxs4UWPhu1H9u7YigIgOnaSbfnSUFHfaugvffv1L5hrGBF-F0EZltyooRJazokGEZXo8wm-XtzKtOpIJXQ1S_lmB8iFLfKhxrkdTQmsRsi6IhcqMcWCMS6wNjazRcSNV5-GFlQFcGidUcTobk0aUFKggcRiwPXlcy-JUliUKEaP79Z7x6DpCIy7OVv0DcsmMzMZLDIg&event=monitoring"
+          ],
+          "expanded": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=adfullscreen&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AABceoXz709QIVWlyn6AQa5hnoJyx6dEY2g5fhnoeBz7xFxuwtnapf8OCzIWcm_CUbIxj0Cgh9y08yCeUZxcdvy-jtgiCvp0lCxP4eQGKG_I8uAXg12NRH6YNWPLrXfqboYVPe0WfQ2-x9FxBfCRwGDww05HN-a67jTzlMWQ-i5Ion7gBTja0mgPf9rKeGbVvbOe-ggsadIu2zmGjAqJEFMuTAkVAJ4XSiEJbpQ7gfEY9AgMaVsUoIIavU9kXn18M00bl_TtlZfVI-pJy0kpfqsVKwmidhXdsbvcM5ZBY_ETS474GnBEnUKkXP68CGpcaWoXoyXJ6LWNoH7546ryxXY&event=monitoring"
+          ],
+          "first_quartile": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=videoplaytime25&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADpBH8UTSGyBO2EazgJSUzgVtNhFQ6U2PPrQPT2HRGft2czbaP98u1utj1BfL0KNRLg67G2pSvHGHtnbGZ4v73LlRtD9OnvoPdL96HT4pdHiphx21ssjJUQLw2elANww9sqWsZfI_0UmmoL2aR3OTpG0OE7L9nzRh8cnhlgMSh4jS88ukjTlbmSmD-UNr_X7H6OsxSXSbedszkWWkvOF3E6C_7bW6I6X_cBeRtjnx-04sLoBNLOhWvVGKLQI-2QFIk3n762Z5TK9Fq31AEmJsEqy5-8ZHRfQQrh4Jdd4NB2B1qkVIdg7OQ2hDuk7F-WDHShGzqzcRlDlJdAKyUjQDy6OrUlisw&event=monitoring"
+          ],
+          "viewed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABeTRrMOe2efjE6gdM1wkI_vptiB_Izw-0RMi4Bn_Zviz1GzGlqTkENkos4u-8TdMo49TqxRbzJ7nTMPCrEpcMOrJcB3iktviSE01fTN8PX0NIQzCpTUlDU6t4DPhF7uyxjJqvosyYXT6IcGq6R73O1Q9K598cSediLD7AgEBFM6b6Lzk0KBHG6LsrrG01IKDPZPeb6TjRsXLpcMICvWF9l00m-qCfPFDddfJCirFUuNJ6ia1-qRoSw-LRM8B8TTI2mYfRN4ScxM1qbHM5or8m4l88rDc7PXPGSVrYyLibA7WFG0FpTTFxZF60oTMzQLknHtf5WPjPWIlaY3W97&event=monitoring",
+            "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjss_AOLvnTkg9fd4u2b1Hyn9xczBaVJm1Y19KUUfbk-nZU9AE88RTOkO60xWuV4HZMAOMgHgLgl8YUNW1VpojKH5CAsPIYcs2UwBPfPj71AJmqIWD-I5lDQwUVohHlmQelgR5Af1pXsWY6Z3hkRZOkX_02g-hJkc0XXZYXeZsJMrwlEP1mvItUrcroTsZD_ynBrHUYeG0xNakl3u-ldbOCtSAXhPg9a6RNLq80TQNPDrY8qXafXGYFPqNMpWA-nU76o&sai=AMfl-YQ3vcSh815X7yLVFOKZwnaizVxUbP-yJ0jBykaUtWtvi82f65mgv0AvDF2yRwquh9wbEA0tt9FLuCf0HHCZ7HDwgGyyQGJUVJk43oex&sig=Cg0ArKJSzEGdlrrzli3lEAE&adurl=",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=vast_creativeview&ad_mt=[AD_MT]"
+          ],
+          "unmuted": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABu9dSJTmfyEQK18pXq7tccIgeVfW8kwRtY2yDHNbSlIsyPwYZc_RebHHMuc6iB07wM0phGxOy2xYM8NjZqIHcR4vvVUMN0yo6LiUiohS1BdUzeYAhvjt3YdQ8L0YU_NUaBI4loc7lVO42ppV2nOmrmJyjmfxOsgCDiZnWHNZfQhGh726zonk43FjH5NvLfdOGHQrbouplq-Ff5ve6L0ZCBm57bdoE2ZjxqiAtFjj2KzxG-EwSdqrndj-d7Uuh-dfgCrClJ1qfrE94zdGhBCF6toQY0PhhAfS-LRqLF02Akw8_AVFPFv8PQfLqvlLFV46uiDJFAkEqTMoPoT1XeGw&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=adunmute&ad_mt=[AD_MT]"
+          ],
+          "ended": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=videoplaytime100&ad_mt=[AD_MT]",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADzNixFesxgNs2iOgdCIUdaYfmf4muPtYFdMl5ecAcNXcmJXrgrLYmI10n175A8knaKqEbpXfKhFK9hEvI7d86uuI5VmSx8OEJxzsLcQo0OeBltGNREk-5WTUB0KF4I99EulPm75yumXkFzI-0MZ7ABM3lM5atHAoC6wmhxYFxe1_3MadIDtKkQ9bldIsZ7Qgky393y9kfkne-VYCtsDv5bgEYpYbKH9zhpVglxQ8vovGyN_rz50zF-U9QmuGy9DP28BJ2h4r4nZATrJRy0OQA_otCCupn0rNAhxFHTcXD1eQKQHsmu3jTeDzXWyqOx2cMkAIo2hx9HKCGxLfc&event=monitoring"
+          ],
+          "midpoint": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AADgrPVle7V70JifzEq2YNnSSvMqrfKjht8uk7MMThn70TC2hizPa3YVFNQT7uNyG3QwSayBPiK5Pv2M_lsiiINfFZKvWMfEihSBwM56Z63blQ1HWu-B_HkSBATaYE73xiDWgVy79nZRrE1RDjPwuugVYEol9oekl0WXCN_CuLxSd0oKU36p4kWxoHjewLa6Cm8uQizROb0GTVsuFjJ6uaAjOLgwVs06Ja8e3dJqCalGIcfdPo0hnWsCa7MheT13xzu51SxluLtjU1_lEo-OiX8D6rpeT5xgR6HiQE6FvWIIgemhtjaV3bffemsiulPAnjv9NbzUoRtXjCL-PnUuueU&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=videoplaytime50&ad_mt=[AD_MT]"
+          ],
+          "resumed": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AACO4Qg7AMd_bMXR2aeFacQyNruSsyivbANItAWbdhVf_mPeixrRrDWMvilFCazjzowWYTV3a-2jrTAWsCknQEYuv5kPrIBs9SHOGkGRde9Yl-RLX0qmKBB3E7healND3v78IYDxplkQVvRyKSDZry9aO8FA-oLNxXoJMBSBDtFmBkNdjQ8VlwkXiujICxTU905dZ2C9xmbgZlP9Fp3YPmGVChNK5FQ3PPLkvf_1-kHFTEdE5vawoyvGLHUaOSRuGegDCUA5XFnvK_gWi3aUECjyHUUrNUXe4RGF8_meL2_hjo_Wfp5Gp_vieqOAzIppbvO6wEEjRLmjc3bfbYMIcw&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=adresume&ad_mt=[AD_MT]"
+          ],
+          "muted": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AABqICN9YSHyR2-yFOdNxc_PXM4ibBcTLj8-lG3anZl4CLwgEVhPCNvGE7lwi9hKqhoAYdkQtvzISOKeidwxtfnSDgoEmGzND8Hgc1klLSV7I2GZnxCbtTv9e-vl5z2_nPwrMVixEbpLiKlmrnUMHvLiaCYxii2whj5ZYfQwKXqiqyoxvN7Ew39vA1w9vumhZ_yiSlEgeLUvJeCjmnJjBcuUY4WOLy7eJZ-KO7kHWs0w3DEyF8g07X2Ded0bGyel7gICVFUKUEeQoZzdLRRv65v0O9PdNAQMn8HAbWwTAaTF8MpkZ6QLGITA9eWR59sbQrqjMOI2ysRJ79FM9EU&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=admute&ad_mt=[AD_MT]"
+          ],
+          "errored": [
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=videoplayfailed",
+            "https://adeventtracker.spotify.com/monitoring?pload=AADcDHDm5Oa0kzw20qG5z0IiwQxK26ivI8wyTHr1KPSCa9YYhd9S0ccCmSilGxxhos4ymcrdQ9h5IoR0nwWQ9dP80ME5lcDIzRzl0FODpWhsPxjtF5aPsOBnDeCD-u0Vkw3L3blsc_mpzaAljChXtWdR5E_FZhE7ihJpK2OMWZj5jZZl-239yjI5iIuzPLjwrrlumb9KM3IYYQgeun8tT0rDP2PcDSrRSn0EC_KvyjLSyb8Au5UPrO5fqpNtXyMSx1BEEKl2BX0t4JpiuM9zWWrt9msQNWAYRRbNHWSof-OqFXrl__vBBkHxrx4EIAwyX7rJvxlxmJqra1jR47rAyQ&event=monitoring"
+          ],
+          "third_quartile": [
+            "https://adeventtracker.spotify.com/monitoring?pload=AAAxGqlK0XwGvJaEs-5nL8VY09eOr0MP-i9eHahjmhltv3dNrxeC7g88_FkfZ31rHzQG5m6DPPpyVh1QaUY8mhnRC3QRwLPr0dAwFZkFvLpab__KCmyeuu19NcZjWtoe6kvD80KVa1v3vxqIXeFKrHETu_dfGtwS7ryD3wvfwrTEWThJerMrC88ssPsDpWBqlgEGfkuao_BYj9MHRxQ3JrQbKXLKpg7TS-Jb9y1qkCD3pCJNExrCzIfwUse0sCSP4jQouL--n9jXFqHdQW3HlpmWWUeTHQWQsoJQMmt_6edTjZYihJU-GwVkuSSjVhBZPgvdD7pyaPKTvPte-J33C7AzO31eZCc&event=monitoring",
+            "https://pubads.g.doubleclick.net/pagead/conversion/?ai=BlVSsJ3GVW9KjIM7cBvyjh_gKte7xpEUAAAAQASC8rvkeOABYj4eL8IIEYMm2uIfco9wQsgEPd3d3LnNwb3RpZnkuY29tugEHMngyX3htbMgBBdoBGGh0dHBzOi8vd3d3LnNwb3RpZnkuY29tL6kCD5krACBisz7AAgLgAgDqAhAvNjQ2NTA1Mi9kZXNrdG9w-AKE0h6QA-ADmAPQBagDAdAEkE7gBAHSBQYQp7GrnhCQBgGgBiOoB5jOG9gHAeAHD9IIBwiAYRABGAM&sigh=c4BU5IRrh5k&label=videoplaytime75&ad_mt=[AD_MT]"
+          ]
+        },
+        "metadata": {
+          "advertiser": "Spotify",
+          "moat.enabled": "false",
+          "placementId": "157994892",
+          "lineitem_id": "4358592679",
+          "format": "video/webm",
+          "title": "Spotify",
+          "creative_id": "138210886543",
+          "advertiser_id": "46211412",
+          "require_focus": "true",
+          "siteId": "5465172",
+          "ad_system": "GDFP",
+          "order_id": "2103485475"
+        },
+        "cover_art": [
+          { "media_file": "2612d06793446ef40989d3338f6ec703a04f738b" },
+          {
+            "media_file": "https://d3rt1990lpmkn.cloudfront.net/unbranded/2612d06793446ef40989d3338f6ec703a04f738b"
+          }
+        ],
+        "video": [
+          {
+            "width": 1280,
+            "height": 720,
+            "bitrate": 160,
+            "mimetype": "video/mp4",
+            "media_file": "https://creativeservice-production.scdn.co/video-placeholders/15.mp4",
+            "duration_sec": 15
+          },
+          {
+            "mimetype": "video/mp4",
+            "media_file": "14a3168ddfe0437bb4e425a05e711ac7"
+          }
+        ],
+        "html": "",
+        "cleanup_timeout_ms": null,
+        "same_frame": null
+      }
+    ]
+  }
+}
