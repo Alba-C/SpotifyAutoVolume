@@ -9,7 +9,7 @@ let duration = 10000;
 
 console.log("Spotify AutoMute Listening to folder...", watchPath);
 
-// Listen to the folder for any additions
+// Listen to the folder for any additions.
 fs.watch(watchPath, (change, filename) => {
   // console.log("change", change);
   // console.log(fs.existsSync(watchPath + filename));
