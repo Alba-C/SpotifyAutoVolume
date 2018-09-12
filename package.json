@@ -1,12 +1,12 @@
 {
-  "name": "automute",
+  "name": "SpotifyAutoVolume",
   "version": "1.0.0",
-  "description": "mute system when spotify plays an ad",
+  "description": "lower the system when spotify plays an ad",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Chris Albanese",
   "license": "ISC",
   "dependencies": {
     "system-control": "0.0.5"
