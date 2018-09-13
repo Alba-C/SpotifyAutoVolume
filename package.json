@@ -1,5 +1,5 @@
 {
-  "name": "SpotifyAutoVolume",
+  "name": "spotify_auto_volume",
   "version": "1.0.0",
   "description": "lower the system when spotify plays an ad",
   "main": "app.js",
