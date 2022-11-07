@@ -1,4 +1,4 @@
-# SpotifyAutoVolume
+# SpotifyAutoVolume_
 
 Small node app that will automatically lower volume when an ad is about to play and raise volume after its done.
 I love spotify but the ads are so loud and distracting, this script allow you to lower the volume to a reasonable level and then go back to normal volume when the music starts again.
